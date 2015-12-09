@@ -1,0 +1,4029 @@
+>Fasta >Q5TYM5   >> Details:
+
+
+Method 1:
+
+Q5TYM5	GO:0005739	0.70	cellular_component
+Q5TYM5	GO:0005737	0.57	cellular_component
+Q5TYM5	GO:0005524	0.57	molecular_function
+Q5TYM5	GO:0005886	0.57	cellular_component
+Q5TYM5	GO:0016021	0.56	cellular_component
+Q5TYM5	GO:0003677	0.54	molecular_function
+Q5TYM5	GO:0046872	0.53	molecular_function
+Q5TYM5	GO:0006412	0.51	biological_process
+Q5TYM5	GO:0003735	0.50	molecular_function
+Q5TYM5	GO:0008270	0.50	molecular_function
+Q5TYM5	GO:0005634	0.50	cellular_component
+
+Method 2:
+
+Q5TYM5	GO:0005739	1.00	cellular_component
+Q5TYM5	GO:0031552	0.99	biological_process
+Q5TYM5	GO:0043065	0.99	biological_process
+Q5TYM5	GO:0016020	0.99	cellular_component
+Q5TYM5	GO:0005829	0.99	cellular_component
+
+Method 3:
+
+Q5TYM5	GO:0005739	1.00	cellular_component
+Q5TYM5	GO:0005829	0.99	cellular_component
+Q5TYM5	GO:0016020	0.99	cellular_component
+Q5TYM5	GO:0043065	0.99	biological_process
+Q5TYM5	GO:0031552	0.99	biological_process
+
+>Fasta >Q7Z4W2   >> Details:
+
+
+Method 1:
+
+Q7Z4W2	GO:0003796	1.00	molecular_function
+Q7Z4W2	GO:0016998	1.00	biological_process
+Q7Z4W2	GO:0005576	1.00	cellular_component
+Q7Z4W2	GO:0042742	1.00	biological_process
+Q7Z4W2	GO:0019835	1.00	biological_process
+Q7Z4W2	GO:0007586	0.81	biological_process
+Q7Z4W2	GO:0005509	0.74	molecular_function
+Q7Z4W2	GO:0005989	0.72	biological_process
+Q7Z4W2	GO:0016021	0.70	cellular_component
+Q7Z4W2	GO:0004461	0.69	molecular_function
+Q7Z4W2	GO:0046872	0.67	molecular_function
+
+Method 2:
+
+Q7Z4W2	GO:0042742	1.00	biological_process
+Q7Z4W2	GO:0019835	1.00	biological_process
+Q7Z4W2	GO:0003796	1.00	molecular_function
+Q7Z4W2	GO:0016998	1.00	biological_process
+Q7Z4W2	GO:0005576	1.00	cellular_component
+Q7Z4W2	GO:0007586	0.99	biological_process
+Q7Z4W2	GO:0005989	0.98	biological_process
+Q7Z4W2	GO:0005509	0.97	molecular_function
+Q7Z4W2	GO:0004461	0.97	molecular_function
+Q7Z4W2	GO:0016021	0.96	cellular_component
+Q7Z4W2	GO:0050830	0.95	biological_process
+
+Method 3:
+
+Q7Z4W2	GO:0003796	1.00	molecular_function
+Q7Z4W2	GO:0016998	0.99	biological_process
+Q7Z4W2	GO:0019835	0.98	biological_process
+Q7Z4W2	GO:0042742	0.97	biological_process
+Q7Z4W2	GO:0005576	0.96	cellular_component
+Q7Z4W2	GO:0007586	0.95	biological_process
+Q7Z4W2	GO:0005989	0.94	biological_process
+Q7Z4W2	GO:0005509	0.93	molecular_function
+Q7Z4W2	GO:0004461	0.93	molecular_function
+Q7Z4W2	GO:0050830	0.92	biological_process
+Q7Z4W2	GO:0002080	0.91	cellular_component
+
+>Fasta >Q9BVJ7   >> Details:
+
+
+Method 1:
+
+Q9BVJ7	GO:0005634	0.68	cellular_component
+Q9BVJ7	GO:0005829	0.67	cellular_component
+Q9BVJ7	GO:0004725	0.61	molecular_function
+Q9BVJ7	GO:0035335	0.61	biological_process
+Q9BVJ7	GO:0008138	0.60	molecular_function
+Q9BVJ7	GO:0005737	0.58	cellular_component
+Q9BVJ7	GO:0005524	0.58	molecular_function
+Q9BVJ7	GO:0005886	0.58	cellular_component
+Q9BVJ7	GO:0003735	0.57	molecular_function
+Q9BVJ7	GO:0046872	0.57	molecular_function
+Q9BVJ7	GO:0016021	0.57	cellular_component
+
+Method 2:
+
+Q9BVJ7	GO:0005829	1.00	cellular_component
+Q9BVJ7	GO:0005634	0.99	cellular_component
+Q9BVJ7	GO:0005737	0.98	cellular_component
+Q9BVJ7	GO:0005524	0.97	molecular_function
+Q9BVJ7	GO:0005654	0.96	cellular_component
+Q9BVJ7	GO:0005886	0.95	cellular_component
+Q9BVJ7	GO:0006351	0.94	biological_process
+Q9BVJ7	GO:0008270	0.93	molecular_function
+Q9BVJ7	GO:0045087	0.92	biological_process
+Q9BVJ7	GO:0045944	0.91	biological_process
+Q9BVJ7	GO:0003677	0.90	molecular_function
+
+Method 3:
+
+Q9BVJ7	GO:0005829	1.00	cellular_component
+Q9BVJ7	GO:0035335	1.00	biological_process
+Q9BVJ7	GO:0004725	1.00	molecular_function
+Q9BVJ7	GO:0008138	1.00	molecular_function
+Q9BVJ7	GO:0005634	1.00	cellular_component
+
+>Fasta >P02724   >> Details:
+
+
+Method 1:
+
+P02724	GO:0005886	0.64	cellular_component
+P02724	GO:0016021	0.62	cellular_component
+P02724	GO:0005887	0.59	cellular_component
+P02724	GO:0005524	0.56	molecular_function
+P02724	GO:0005737	0.56	cellular_component
+P02724	GO:0003677	0.56	molecular_function
+P02724	GO:0046872	0.56	molecular_function
+P02724	GO:0006351	0.56	biological_process
+P02724	GO:0005634	0.56	cellular_component
+P02724	GO:0006412	0.55	biological_process
+P02724	GO:0005576	0.55	cellular_component
+
+Method 2:
+
+P02724	GO:0005887	1.00	cellular_component
+P02724	GO:0005886	0.99	cellular_component
+P02724	GO:0007156	0.98	biological_process
+P02724	GO:0005509	0.98	molecular_function
+P02724	GO:0016021	0.97	cellular_component
+P02724	GO:0007399	0.96	biological_process
+P02724	GO:0007155	0.96	biological_process
+P02724	GO:0047484	0.95	biological_process
+P02724	GO:0019048	0.95	biological_process
+P02724	GO:0007016	0.95	biological_process
+P02724	GO:0009897	0.95	cellular_component
+
+Method 3:
+
+P02724	GO:0005886	1.00	cellular_component
+P02724	GO:0016021	0.99	cellular_component
+P02724	GO:0005887	0.98	cellular_component
+P02724	GO:0009897	0.97	cellular_component
+P02724	GO:0047484	0.97	biological_process
+P02724	GO:0007016	0.97	biological_process
+P02724	GO:0019048	0.97	biological_process
+
+>Fasta >Q8NH95   >> Details:
+
+
+Method 1:
+
+Q8NH95	GO:0005886	1.00	cellular_component
+Q8NH95	GO:0004984	1.00	molecular_function
+Q8NH95	GO:0004930	1.00	molecular_function
+Q8NH95	GO:0016021	1.00	cellular_component
+Q8NH95	GO:0050911	1.00	biological_process
+Q8NH95	GO:0007186	0.97	biological_process
+Q8NH95	GO:0005737	0.58	cellular_component
+Q8NH95	GO:0005524	0.56	molecular_function
+Q8NH95	GO:0005887	0.55	cellular_component
+Q8NH95	GO:0046872	0.55	molecular_function
+Q8NH95	GO:0000287	0.54	molecular_function
+
+Method 2:
+
+Q8NH95	GO:0005886	1.00	cellular_component
+Q8NH95	GO:0050911	1.00	biological_process
+Q8NH95	GO:0004930	1.00	molecular_function
+Q8NH95	GO:0016021	1.00	cellular_component
+Q8NH95	GO:0004984	1.00	molecular_function
+Q8NH95	GO:0007186	0.99	biological_process
+Q8NH95	GO:0007165	0.98	biological_process
+Q8NH95	GO:0005829	0.97	cellular_component
+Q8NH95	GO:0005634	0.96	cellular_component
+Q8NH95	GO:0005887	0.96	cellular_component
+Q8NH95	GO:0005737	0.95	cellular_component
+
+Method 3:
+
+Q8NH95	GO:0005886	1.00	cellular_component
+Q8NH95	GO:0016021	1.00	cellular_component
+Q8NH95	GO:0004984	1.00	molecular_function
+Q8NH95	GO:0050911	1.00	biological_process
+Q8NH95	GO:0004930	1.00	molecular_function
+Q8NH95	GO:0007186	0.99	biological_process
+Q8NH95	GO:0007165	0.98	biological_process
+Q8NH95	GO:0005887	0.97	cellular_component
+Q8NH95	GO:0007338	0.96	biological_process
+Q8NH95	GO:0005938	0.95	cellular_component
+Q8NH95	GO:0004872	0.94	molecular_function
+
+>Fasta >Q8N100   >> Details:
+
+
+Method 1:
+
+Q8N100	GO:0005634	0.72	cellular_component
+Q8N100	GO:0006351	0.72	biological_process
+Q8N100	GO:0003677	0.71	molecular_function
+Q8N100	GO:0006355	0.71	biological_process
+Q8N100	GO:0030154	0.60	biological_process
+Q8N100	GO:0007399	0.58	biological_process
+Q8N100	GO:0007623	0.58	biological_process
+Q8N100	GO:0005737	0.58	cellular_component
+Q8N100	GO:0009649	0.58	biological_process
+Q8N100	GO:0005524	0.56	molecular_function
+Q8N100	GO:0006412	0.56	biological_process
+
+Method 2:
+
+Q8N100	GO:0005634	1.00	cellular_component
+Q8N100	GO:0006351	0.99	biological_process
+Q8N100	GO:0005737	0.98	cellular_component
+Q8N100	GO:0003677	0.97	molecular_function
+Q8N100	GO:0008270	0.96	molecular_function
+Q8N100	GO:0005524	0.95	molecular_function
+Q8N100	GO:0045944	0.94	biological_process
+Q8N100	GO:0006355	0.93	biological_process
+Q8N100	GO:0043565	0.92	molecular_function
+Q8N100	GO:0048813	0.91	biological_process
+Q8N100	GO:0007422	0.91	biological_process
+
+Method 3:
+
+Q8N100	GO:0005634	1.00	cellular_component
+Q8N100	GO:0006351	0.99	biological_process
+Q8N100	GO:0006355	0.98	biological_process
+Q8N100	GO:0003677	0.97	molecular_function
+Q8N100	GO:0007623	0.96	biological_process
+Q8N100	GO:0009649	0.96	biological_process
+Q8N100	GO:0007399	0.95	biological_process
+Q8N100	GO:0030154	0.94	biological_process
+Q8N100	GO:0048663	0.93	biological_process
+Q8N100	GO:0003407	0.92	biological_process
+Q8N100	GO:0045165	0.91	biological_process
+
+>Fasta >P62269   >> Details:
+
+
+Method 1:
+
+P62269	GO:0003735	1.00	molecular_function
+P62269	GO:0019843	1.00	molecular_function
+P62269	GO:0006412	1.00	biological_process
+P62269	GO:0005840	1.00	cellular_component
+P62269	GO:0000049	1.00	molecular_function
+P62269	GO:0042254	0.90	biological_process
+P62269	GO:0005829	0.83	cellular_component
+P62269	GO:0015935	0.83	cellular_component
+P62269	GO:0022627	0.82	cellular_component
+P62269	GO:0003677	0.63	molecular_function
+P62269	GO:0005886	0.60	cellular_component
+
+Method 2:
+
+P62269	GO:0006412	1.00	biological_process
+P62269	GO:0019843	1.00	molecular_function
+P62269	GO:0003735	1.00	molecular_function
+P62269	GO:0005840	1.00	cellular_component
+P62269	GO:0000049	1.00	molecular_function
+P62269	GO:0005829	0.99	cellular_component
+P62269	GO:0042254	0.98	biological_process
+P62269	GO:0002181	0.97	biological_process
+P62269	GO:0022627	0.96	cellular_component
+P62269	GO:0005730	0.95	cellular_component
+P62269	GO:0005634	0.94	cellular_component
+
+Method 3:
+
+P62269	GO:0003735	1.00	molecular_function
+P62269	GO:0005840	1.00	cellular_component
+P62269	GO:0000049	1.00	molecular_function
+P62269	GO:0019843	1.00	molecular_function
+P62269	GO:0006412	1.00	biological_process
+P62269	GO:0042254	0.99	biological_process
+P62269	GO:0005829	0.98	cellular_component
+P62269	GO:0015935	0.98	cellular_component
+P62269	GO:0022627	0.97	cellular_component
+P62269	GO:0009507	0.96	cellular_component
+P62269	GO:0002181	0.95	biological_process
+
+>Fasta >O14880   >> Details:
+
+
+Method 1:
+
+O14880	GO:0016021	0.70	cellular_component
+O14880	GO:0005789	0.68	cellular_component
+O14880	GO:0005635	0.65	cellular_component
+O14880	GO:0004364	0.65	molecular_function
+O14880	GO:0004602	0.65	molecular_function
+O14880	GO:0005886	0.57	cellular_component
+O14880	GO:0005737	0.57	cellular_component
+O14880	GO:0005524	0.57	molecular_function
+O14880	GO:0046872	0.56	molecular_function
+O14880	GO:0005783	0.56	cellular_component
+O14880	GO:0006412	0.56	biological_process
+
+Method 2:
+
+O14880	GO:0005829	1.00	cellular_component
+O14880	GO:0016021	0.99	cellular_component
+O14880	GO:0005634	0.98	cellular_component
+O14880	GO:0005886	0.97	cellular_component
+O14880	GO:0005737	0.96	cellular_component
+O14880	GO:0005524	0.95	molecular_function
+O14880	GO:0005789	0.95	cellular_component
+O14880	GO:0005635	0.94	cellular_component
+O14880	GO:0044281	0.93	biological_process
+O14880	GO:0004364	0.93	molecular_function
+O14880	GO:0005654	0.93	cellular_component
+
+Method 3:
+
+O14880	GO:0005635	1.00	cellular_component
+O14880	GO:0004602	1.00	molecular_function
+O14880	GO:0016021	1.00	cellular_component
+O14880	GO:0004364	1.00	molecular_function
+O14880	GO:0005789	1.00	cellular_component
+O14880	GO:0005783	0.99	cellular_component
+O14880	GO:0044281	0.98	biological_process
+O14880	GO:1901687	0.98	biological_process
+O14880	GO:0007165	0.98	biological_process
+O14880	GO:0006805	0.98	biological_process
+O14880	GO:0006629	0.98	biological_process
+
+>Fasta >O14684   >> Details:
+
+
+Method 1:
+
+O14684	GO:0016021	0.78	cellular_component
+O14684	GO:0043295	0.77	molecular_function
+O14684	GO:0050220	0.77	molecular_function
+O14684	GO:0001516	0.73	biological_process
+O14684	GO:0008285	0.69	biological_process
+O14684	GO:0005641	0.69	cellular_component
+O14684	GO:0005737	0.69	cellular_component
+O14684	GO:0005886	0.56	cellular_component
+O14684	GO:0005524	0.56	molecular_function
+O14684	GO:0006412	0.56	biological_process
+O14684	GO:0003735	0.56	molecular_function
+
+Method 2:
+
+O14684	GO:0016021	1.00	cellular_component
+O14684	GO:0043295	0.99	molecular_function
+O14684	GO:0050220	0.99	molecular_function
+O14684	GO:0001516	0.98	biological_process
+O14684	GO:0008285	0.97	biological_process
+O14684	GO:0005641	0.96	cellular_component
+O14684	GO:0005737	0.95	cellular_component
+O14684	GO:0032496	0.94	biological_process
+O14684	GO:0048471	0.93	cellular_component
+O14684	GO:0002544	0.92	biological_process
+O14684	GO:0002526	0.92	biological_process
+
+Method 3:
+
+O14684	GO:0050220	1.00	molecular_function
+O14684	GO:0016021	1.00	cellular_component
+O14684	GO:0043295	1.00	molecular_function
+O14684	GO:0001516	0.99	biological_process
+O14684	GO:0008285	0.98	biological_process
+O14684	GO:0005641	0.98	cellular_component
+O14684	GO:0005737	0.97	cellular_component
+O14684	GO:0002544	0.96	biological_process
+O14684	GO:0002526	0.96	biological_process
+O14684	GO:0032496	0.96	biological_process
+O14684	GO:0034097	0.96	biological_process
+
+>Fasta >O75951   >> Details:
+
+
+Method 1:
+
+O75951	GO:0005576	1.00	cellular_component
+O75951	GO:0016998	1.00	biological_process
+O75951	GO:0003796	1.00	molecular_function
+O75951	GO:0042742	0.98	biological_process
+O75951	GO:0019835	0.98	biological_process
+O75951	GO:0007586	0.75	biological_process
+O75951	GO:0005509	0.74	molecular_function
+O75951	GO:0005989	0.72	biological_process
+O75951	GO:0016021	0.70	cellular_component
+O75951	GO:0004461	0.69	molecular_function
+O75951	GO:0046872	0.65	molecular_function
+
+Method 2:
+
+O75951	GO:0042742	1.00	biological_process
+O75951	GO:0019835	1.00	biological_process
+O75951	GO:0003796	1.00	molecular_function
+O75951	GO:0016998	1.00	biological_process
+O75951	GO:0005576	1.00	cellular_component
+O75951	GO:0007586	0.99	biological_process
+O75951	GO:0005989	0.98	biological_process
+O75951	GO:0005509	0.97	molecular_function
+O75951	GO:0004461	0.97	molecular_function
+O75951	GO:0016021	0.96	cellular_component
+O75951	GO:0050830	0.95	biological_process
+
+Method 3:
+
+O75951	GO:0003796	1.00	molecular_function
+O75951	GO:0016998	0.99	biological_process
+O75951	GO:0019835	0.98	biological_process
+O75951	GO:0042742	0.97	biological_process
+O75951	GO:0005576	0.96	cellular_component
+O75951	GO:0007586	0.95	biological_process
+O75951	GO:0005989	0.94	biological_process
+O75951	GO:0005509	0.93	molecular_function
+O75951	GO:0004461	0.93	molecular_function
+O75951	GO:0050830	0.92	biological_process
+O75951	GO:0002080	0.91	cellular_component
+
+>Fasta >P16949   >> Details:
+
+
+Method 1:
+
+P16949	GO:0031110	0.87	biological_process
+P16949	GO:0030426	0.80	cellular_component
+P16949	GO:0030424	0.80	cellular_component
+P16949	GO:0005794	0.79	cellular_component
+P16949	GO:0016020	0.77	cellular_component
+P16949	GO:0005737	0.76	cellular_component
+P16949	GO:0005874	0.74	cellular_component
+P16949	GO:0031115	0.72	biological_process
+P16949	GO:0007019	0.67	biological_process
+P16949	GO:0005829	0.65	cellular_component
+P16949	GO:0007409	0.63	biological_process
+
+Method 2:
+
+P16949	GO:0031110	1.00	biological_process
+P16949	GO:0030426	0.99	cellular_component
+P16949	GO:0030424	0.99	cellular_component
+P16949	GO:0005794	0.98	cellular_component
+P16949	GO:0016020	0.97	cellular_component
+P16949	GO:0005737	0.96	cellular_component
+P16949	GO:0005874	0.95	cellular_component
+P16949	GO:0031115	0.94	biological_process
+P16949	GO:0007019	0.93	biological_process
+P16949	GO:0048471	0.92	cellular_component
+P16949	GO:0005829	0.91	cellular_component
+
+Method 3:
+
+P16949	GO:0031110	1.00	biological_process
+P16949	GO:0030426	0.99	cellular_component
+P16949	GO:0030424	0.99	cellular_component
+P16949	GO:0005794	0.98	cellular_component
+P16949	GO:0016020	0.97	cellular_component
+P16949	GO:0005737	0.96	cellular_component
+P16949	GO:0005874	0.95	cellular_component
+P16949	GO:0031115	0.94	biological_process
+P16949	GO:0007019	0.93	biological_process
+P16949	GO:0048471	0.92	cellular_component
+P16949	GO:0009615	0.91	biological_process
+
+>Fasta >Q12988   >> Details:
+
+
+Method 1:
+
+Q12988	GO:0005737	0.74	cellular_component
+Q12988	GO:0005634	0.74	cellular_component
+Q12988	GO:0006950	0.65	biological_process
+Q12988	GO:0005524	0.58	molecular_function
+Q12988	GO:0005886	0.57	cellular_component
+Q12988	GO:0016021	0.57	cellular_component
+Q12988	GO:0046872	0.56	molecular_function
+Q12988	GO:0006412	0.56	biological_process
+Q12988	GO:0003735	0.56	molecular_function
+Q12988	GO:0003677	0.55	molecular_function
+Q12988	GO:0005840	0.54	cellular_component
+
+Method 2:
+
+Q12988	GO:0005634	1.00	cellular_component
+Q12988	GO:0005737	0.99	cellular_component
+Q12988	GO:0005829	0.98	cellular_component
+Q12988	GO:0005524	0.97	molecular_function
+Q12988	GO:0005654	0.97	cellular_component
+Q12988	GO:0005886	0.96	cellular_component
+Q12988	GO:0006351	0.96	biological_process
+Q12988	GO:0045944	0.95	biological_process
+Q12988	GO:0008270	0.94	molecular_function
+Q12988	GO:0008219	0.94	biological_process
+Q12988	GO:0006986	0.94	biological_process
+
+Method 3:
+
+Q12988	GO:0005737	1.00	cellular_component
+Q12988	GO:0005634	1.00	cellular_component
+Q12988	GO:0006950	0.99	biological_process
+Q12988	GO:0006986	0.98	biological_process
+Q12988	GO:0008219	0.98	biological_process
+
+>Fasta >Q9NSK7   >> Details:
+
+
+Method 1:
+
+Q9NSK7	GO:0016021	0.67	cellular_component
+Q9NSK7	GO:0031966	0.63	cellular_component
+Q9NSK7	GO:0005524	0.57	molecular_function
+Q9NSK7	GO:0005737	0.57	cellular_component
+Q9NSK7	GO:0005886	0.57	cellular_component
+Q9NSK7	GO:0046872	0.56	molecular_function
+Q9NSK7	GO:0006412	0.56	biological_process
+Q9NSK7	GO:0003735	0.56	molecular_function
+Q9NSK7	GO:0003677	0.56	molecular_function
+Q9NSK7	GO:0005634	0.56	cellular_component
+Q9NSK7	GO:0005840	0.55	cellular_component
+
+Method 2:
+
+Q9NSK7	GO:0005829	1.00	cellular_component
+Q9NSK7	GO:0005634	0.99	cellular_component
+Q9NSK7	GO:0016021	0.98	cellular_component
+Q9NSK7	GO:0005524	0.97	molecular_function
+Q9NSK7	GO:0031966	0.96	cellular_component
+Q9NSK7	GO:0045087	0.95	biological_process
+Q9NSK7	GO:0005737	0.95	cellular_component
+Q9NSK7	GO:0005654	0.94	cellular_component
+Q9NSK7	GO:0005886	0.93	cellular_component
+Q9NSK7	GO:0008270	0.92	molecular_function
+Q9NSK7	GO:0045944	0.92	biological_process
+
+Method 3:
+
+Q9NSK7	GO:0016021	1.00	cellular_component
+Q9NSK7	GO:0031966	1.00	cellular_component
+Q9NSK7	GO:0008219	0.99	biological_process
+
+>Fasta >P04054   >> Details:
+
+
+Method 1:
+
+P04054	GO:0006644	1.00	biological_process
+P04054	GO:0004623	1.00	molecular_function
+P04054	GO:0016042	1.00	biological_process
+P04054	GO:0005509	1.00	molecular_function
+P04054	GO:0005576	1.00	cellular_component
+P04054	GO:0072556	0.99	cellular_component
+P04054	GO:0006954	0.90	biological_process
+P04054	GO:0005615	0.71	cellular_component
+P04054	GO:0044240	0.67	biological_process
+P04054	GO:0009986	0.67	cellular_component
+P04054	GO:0047498	0.63	molecular_function
+
+Method 2:
+
+P04054	GO:0016042	1.00	biological_process
+P04054	GO:0004623	1.00	molecular_function
+P04054	GO:0072556	1.00	cellular_component
+P04054	GO:0005509	1.00	molecular_function
+P04054	GO:0006644	1.00	biological_process
+P04054	GO:0005576	1.00	cellular_component
+P04054	GO:0006954	0.99	biological_process
+P04054	GO:0005615	0.98	cellular_component
+P04054	GO:0035792	0.98	cellular_component
+P04054	GO:0044240	0.97	biological_process
+P04054	GO:0047498	0.96	molecular_function
+
+Method 3:
+
+P04054	GO:0005509	1.00	molecular_function
+P04054	GO:0006644	1.00	biological_process
+P04054	GO:0005576	1.00	cellular_component
+P04054	GO:0004623	1.00	molecular_function
+P04054	GO:0016042	1.00	biological_process
+P04054	GO:0072556	0.99	cellular_component
+P04054	GO:0006954	0.98	biological_process
+P04054	GO:0035792	0.97	cellular_component
+P04054	GO:0005615	0.96	cellular_component
+P04054	GO:0044240	0.95	biological_process
+P04054	GO:0047498	0.94	molecular_function
+
+>Fasta >P15531   >> Details:
+
+
+Method 1:
+
+P15531	GO:0005737	1.00	cellular_component
+P15531	GO:0005524	1.00	molecular_function
+P15531	GO:0046872	1.00	molecular_function
+P15531	GO:0006183	1.00	biological_process
+P15531	GO:0006241	1.00	biological_process
+P15531	GO:0006228	1.00	biological_process
+P15531	GO:0004550	1.00	molecular_function
+P15531	GO:0005886	0.89	cellular_component
+P15531	GO:0005634	0.85	cellular_component
+P15531	GO:0005739	0.84	cellular_component
+P15531	GO:0030027	0.81	cellular_component
+
+Method 2:
+
+P15531	GO:0006228	1.00	biological_process
+P15531	GO:0004550	1.00	molecular_function
+P15531	GO:0006241	1.00	biological_process
+P15531	GO:0005524	1.00	molecular_function
+P15531	GO:0046872	1.00	molecular_function
+P15531	GO:0006183	1.00	biological_process
+P15531	GO:0005737	1.00	cellular_component
+P15531	GO:0005886	0.99	cellular_component
+P15531	GO:0005634	0.98	cellular_component
+P15531	GO:0005829	0.97	cellular_component
+P15531	GO:0005739	0.96	cellular_component
+
+Method 3:
+
+P15531	GO:0005737	1.00	cellular_component
+P15531	GO:0004550	1.00	molecular_function
+P15531	GO:0046872	1.00	molecular_function
+P15531	GO:0005524	1.00	molecular_function
+P15531	GO:0006228	1.00	biological_process
+P15531	GO:0006183	1.00	biological_process
+P15531	GO:0006241	1.00	biological_process
+P15531	GO:0005886	0.99	cellular_component
+P15531	GO:0005634	0.98	cellular_component
+P15531	GO:0005739	0.97	cellular_component
+P15531	GO:0030027	0.96	cellular_component
+
+>Fasta >P62277   >> Details:
+
+
+Method 1:
+
+P62277	GO:0003735	1.00	molecular_function
+P62277	GO:0006412	1.00	biological_process
+P62277	GO:0005840	1.00	cellular_component
+P62277	GO:0005730	0.84	cellular_component
+P62277	GO:0022627	0.83	cellular_component
+P62277	GO:0003729	0.74	molecular_function
+P62277	GO:0033119	0.73	biological_process
+P62277	GO:0005524	0.58	molecular_function
+P62277	GO:0005737	0.58	cellular_component
+P62277	GO:0046872	0.58	molecular_function
+P62277	GO:0016021	0.58	cellular_component
+
+Method 2:
+
+P62277	GO:0006412	1.00	biological_process
+P62277	GO:0003735	1.00	molecular_function
+P62277	GO:0005840	1.00	cellular_component
+P62277	GO:0005730	0.99	cellular_component
+P62277	GO:0022627	0.99	cellular_component
+P62277	GO:0000184	0.98	biological_process
+P62277	GO:0006413	0.98	biological_process
+P62277	GO:0006415	0.98	biological_process
+P62277	GO:0006414	0.98	biological_process
+P62277	GO:0019083	0.98	biological_process
+P62277	GO:0006614	0.98	biological_process
+
+Method 3:
+
+P62277	GO:0003735	1.00	molecular_function
+P62277	GO:0006412	0.99	biological_process
+P62277	GO:0005840	0.98	cellular_component
+P62277	GO:0005730	0.97	cellular_component
+P62277	GO:0022627	0.96	cellular_component
+P62277	GO:0003729	0.95	molecular_function
+P62277	GO:0033119	0.95	biological_process
+P62277	GO:0009507	0.94	cellular_component
+P62277	GO:0005618	0.94	cellular_component
+P62277	GO:0016020	0.93	cellular_component
+P62277	GO:0000911	0.93	biological_process
+
+>Fasta >Q93091   >> Details:
+
+
+Method 1:
+
+Q93091	GO:0004522	0.98	molecular_function
+Q93091	GO:0003676	0.98	molecular_function
+Q93091	GO:0090305	0.97	biological_process
+Q93091	GO:0005576	0.94	cellular_component
+Q93091	GO:0005764	0.82	cellular_component
+Q93091	GO:0042742	0.60	biological_process
+Q93091	GO:0004540	0.56	molecular_function
+Q93091	GO:0005737	0.56	cellular_component
+Q93091	GO:0005886	0.56	cellular_component
+Q93091	GO:0016021	0.56	cellular_component
+Q93091	GO:0005524	0.56	molecular_function
+
+Method 2:
+
+Q93091	GO:0004522	1.00	molecular_function
+Q93091	GO:0003676	1.00	molecular_function
+Q93091	GO:0090305	0.99	biological_process
+Q93091	GO:0005576	0.98	cellular_component
+Q93091	GO:0005764	0.97	cellular_component
+Q93091	GO:0004540	0.96	molecular_function
+Q93091	GO:0005829	0.96	cellular_component
+Q93091	GO:0006401	0.95	biological_process
+Q93091	GO:0006935	0.94	biological_process
+Q93091	GO:0005634	0.93	cellular_component
+Q93091	GO:0005654	0.92	cellular_component
+
+Method 3:
+
+Q93091	GO:0003676	1.00	molecular_function
+Q93091	GO:0004522	1.00	molecular_function
+Q93091	GO:0090305	0.99	biological_process
+Q93091	GO:0005576	0.98	cellular_component
+Q93091	GO:0005764	0.97	cellular_component
+Q93091	GO:0004540	0.96	molecular_function
+Q93091	GO:0006401	0.95	biological_process
+Q93091	GO:0006935	0.94	biological_process
+Q93091	GO:0042742	0.93	biological_process
+Q93091	GO:0006952	0.92	biological_process
+Q93091	GO:0045087	0.91	biological_process
+
+>Fasta >P63146   >> Details:
+
+
+Method 1:
+
+P63146	GO:0005524	1.00	molecular_function
+P63146	GO:0004842	1.00	molecular_function
+P63146	GO:0005634	1.00	cellular_component
+P63146	GO:0070936	0.99	biological_process
+P63146	GO:0005737	0.99	cellular_component
+P63146	GO:0070979	0.98	biological_process
+P63146	GO:0006281	0.97	biological_process
+P63146	GO:0006511	0.95	biological_process
+P63146	GO:0051301	0.95	biological_process
+P63146	GO:0070534	0.94	biological_process
+P63146	GO:0006513	0.93	biological_process
+
+Method 2:
+
+P63146	GO:0004842	1.00	molecular_function
+P63146	GO:0005634	1.00	cellular_component
+P63146	GO:0005524	1.00	molecular_function
+P63146	GO:0005737	1.00	cellular_component
+P63146	GO:0070936	0.99	biological_process
+P63146	GO:0051301	0.98	biological_process
+P63146	GO:0005829	0.98	cellular_component
+P63146	GO:0006351	0.98	biological_process
+P63146	GO:0006281	0.98	biological_process
+P63146	GO:0070979	0.97	biological_process
+P63146	GO:0005886	0.97	cellular_component
+
+Method 3:
+
+P63146	GO:0005524	1.00	molecular_function
+P63146	GO:0004842	0.99	molecular_function
+P63146	GO:0005634	0.98	cellular_component
+P63146	GO:0070936	0.97	biological_process
+P63146	GO:0005737	0.96	cellular_component
+P63146	GO:0070979	0.95	biological_process
+P63146	GO:0006281	0.94	biological_process
+P63146	GO:0051301	0.93	biological_process
+P63146	GO:0006511	0.92	biological_process
+P63146	GO:0070534	0.91	biological_process
+P63146	GO:0031145	0.90	biological_process
+
+>Fasta >Q15506   >> Details:
+
+
+Method 1:
+
+Q15506	GO:0008603	0.94	molecular_function
+Q15506	GO:0007165	0.93	biological_process
+Q15506	GO:0005737	0.83	cellular_component
+Q15506	GO:0016020	0.77	cellular_component
+Q15506	GO:0007339	0.77	biological_process
+Q15506	GO:0001539	0.72	biological_process
+Q15506	GO:0005886	0.71	cellular_component
+Q15506	GO:0031514	0.70	cellular_component
+Q15506	GO:0072372	0.66	cellular_component
+Q15506	GO:0046872	0.59	molecular_function
+Q15506	GO:0005524	0.56	molecular_function
+
+Method 2:
+
+Q15506	GO:0008603	1.00	molecular_function
+Q15506	GO:0007165	0.99	biological_process
+Q15506	GO:0005737	0.98	cellular_component
+Q15506	GO:0016020	0.97	cellular_component
+Q15506	GO:0007339	0.97	biological_process
+Q15506	GO:0030552	0.96	molecular_function
+Q15506	GO:0005952	0.96	cellular_component
+Q15506	GO:0001539	0.95	biological_process
+Q15506	GO:0031514	0.94	cellular_component
+Q15506	GO:0005886	0.93	cellular_component
+Q15506	GO:0072372	0.92	cellular_component
+
+Method 3:
+
+Q15506	GO:0008603	1.00	molecular_function
+Q15506	GO:0007165	0.99	biological_process
+Q15506	GO:0005737	0.98	cellular_component
+Q15506	GO:0016020	0.97	cellular_component
+Q15506	GO:0007339	0.97	biological_process
+Q15506	GO:0005952	0.96	cellular_component
+Q15506	GO:0030552	0.96	molecular_function
+Q15506	GO:0001539	0.95	biological_process
+Q15506	GO:0031514	0.94	cellular_component
+Q15506	GO:0005886	0.93	cellular_component
+Q15506	GO:0072372	0.92	cellular_component
+
+>Fasta >A6NGQ2   >> Details:
+
+
+Method 1:
+
+A6NGQ2	GO:0003723	0.71	molecular_function
+A6NGQ2	GO:0043234	0.67	cellular_component
+A6NGQ2	GO:0001701	0.66	biological_process
+A6NGQ2	GO:0005938	0.66	cellular_component
+A6NGQ2	GO:0006468	0.66	biological_process
+A6NGQ2	GO:0007566	0.66	biological_process
+A6NGQ2	GO:0045177	0.66	cellular_component
+A6NGQ2	GO:0009566	0.66	biological_process
+A6NGQ2	GO:0009880	0.66	biological_process
+A6NGQ2	GO:0043623	0.66	biological_process
+A6NGQ2	GO:0035088	0.66	biological_process
+
+Method 2:
+
+A6NGQ2	GO:0043234	1.00	cellular_component
+A6NGQ2	GO:0001701	0.99	biological_process
+A6NGQ2	GO:0005938	0.99	cellular_component
+A6NGQ2	GO:0003723	0.99	molecular_function
+A6NGQ2	GO:0006468	0.98	biological_process
+A6NGQ2	GO:0043623	0.98	biological_process
+A6NGQ2	GO:0045177	0.98	cellular_component
+A6NGQ2	GO:0009566	0.98	biological_process
+A6NGQ2	GO:0007566	0.98	biological_process
+A6NGQ2	GO:0009880	0.98	biological_process
+A6NGQ2	GO:0035088	0.98	biological_process
+
+Method 3:
+
+A6NGQ2	GO:0045177	1.00	cellular_component
+A6NGQ2	GO:0009566	1.00	biological_process
+A6NGQ2	GO:0006468	1.00	biological_process
+A6NGQ2	GO:0043623	1.00	biological_process
+A6NGQ2	GO:0035088	1.00	biological_process
+A6NGQ2	GO:0007566	1.00	biological_process
+A6NGQ2	GO:0001701	1.00	biological_process
+A6NGQ2	GO:0043234	1.00	cellular_component
+A6NGQ2	GO:0003723	1.00	molecular_function
+A6NGQ2	GO:0005938	1.00	cellular_component
+A6NGQ2	GO:0009880	1.00	biological_process
+
+>Fasta >P49459   >> Details:
+
+
+Method 1:
+
+P49459	GO:0005524	1.00	molecular_function
+P49459	GO:0004842	1.00	molecular_function
+P49459	GO:0005634	0.99	cellular_component
+P49459	GO:0070936	0.99	biological_process
+P49459	GO:0005737	0.98	cellular_component
+P49459	GO:0070979	0.98	biological_process
+P49459	GO:0006281	0.97	biological_process
+P49459	GO:0006511	0.95	biological_process
+P49459	GO:0051301	0.94	biological_process
+P49459	GO:0070534	0.93	biological_process
+P49459	GO:0006513	0.93	biological_process
+
+Method 2:
+
+P49459	GO:0004842	1.00	molecular_function
+P49459	GO:0005524	1.00	molecular_function
+P49459	GO:0005634	0.99	cellular_component
+P49459	GO:0070936	0.98	biological_process
+P49459	GO:0005737	0.98	cellular_component
+P49459	GO:0070979	0.97	biological_process
+P49459	GO:0006281	0.96	biological_process
+P49459	GO:0051301	0.95	biological_process
+P49459	GO:0006511	0.94	biological_process
+P49459	GO:0070534	0.93	biological_process
+P49459	GO:0031145	0.92	biological_process
+
+Method 3:
+
+P49459	GO:0004842	1.00	molecular_function
+P49459	GO:0005524	1.00	molecular_function
+P49459	GO:0005634	0.99	cellular_component
+P49459	GO:0070936	0.98	biological_process
+P49459	GO:0005737	0.97	cellular_component
+P49459	GO:0070979	0.96	biological_process
+P49459	GO:0006281	0.95	biological_process
+P49459	GO:0051301	0.94	biological_process
+P49459	GO:0006511	0.93	biological_process
+P49459	GO:0070534	0.92	biological_process
+P49459	GO:0031145	0.91	biological_process
+
+>Fasta >Q9BQI0   >> Details:
+
+
+Method 1:
+
+Q9BQI0	GO:0005509	0.82	molecular_function
+Q9BQI0	GO:0051015	0.81	molecular_function
+Q9BQI0	GO:0032587	0.81	cellular_component
+Q9BQI0	GO:0005634	0.74	cellular_component
+Q9BQI0	GO:0005829	0.73	cellular_component
+Q9BQI0	GO:0005737	0.69	cellular_component
+Q9BQI0	GO:0005856	0.67	cellular_component
+Q9BQI0	GO:0030027	0.66	cellular_component
+Q9BQI0	GO:0048661	0.66	biological_process
+Q9BQI0	GO:0006954	0.64	biological_process
+Q9BQI0	GO:0051017	0.63	biological_process
+
+Method 2:
+
+Q9BQI0	GO:0005509	1.00	molecular_function
+Q9BQI0	GO:0005829	0.99	cellular_component
+Q9BQI0	GO:0032587	0.98	cellular_component
+Q9BQI0	GO:0051015	0.98	molecular_function
+Q9BQI0	GO:0005634	0.97	cellular_component
+Q9BQI0	GO:0048661	0.96	biological_process
+Q9BQI0	GO:0030027	0.96	cellular_component
+Q9BQI0	GO:0006954	0.95	biological_process
+Q9BQI0	GO:0042102	0.94	biological_process
+Q9BQI0	GO:2000406	0.93	biological_process
+Q9BQI0	GO:0090026	0.93	biological_process
+
+Method 3:
+
+Q9BQI0	GO:0005509	1.00	molecular_function
+Q9BQI0	GO:0051015	0.99	molecular_function
+Q9BQI0	GO:0032587	0.99	cellular_component
+Q9BQI0	GO:0030027	0.98	cellular_component
+Q9BQI0	GO:0005829	0.98	cellular_component
+Q9BQI0	GO:0048661	0.98	biological_process
+Q9BQI0	GO:0016601	0.97	biological_process
+Q9BQI0	GO:0071346	0.97	biological_process
+Q9BQI0	GO:0090026	0.97	biological_process
+Q9BQI0	GO:0006954	0.97	biological_process
+Q9BQI0	GO:0042102	0.97	biological_process
+
+>Fasta >Q9H5F2   >> Details:
+
+
+Method 1:
+
+Q9H5F2	GO:0005634	0.73	cellular_component
+Q9H5F2	GO:0005737	0.56	cellular_component
+Q9H5F2	GO:0005524	0.54	molecular_function
+Q9H5F2	GO:0016021	0.50	cellular_component
+Q9H5F2	GO:0006412	0.48	biological_process
+Q9H5F2	GO:0003735	0.47	molecular_function
+Q9H5F2	GO:0046872	0.46	molecular_function
+Q9H5F2	GO:0005840	0.46	cellular_component
+Q9H5F2	GO:0005576	0.46	cellular_component
+Q9H5F2	GO:0005886	0.46	cellular_component
+Q9H5F2	GO:0006351	0.43	biological_process
+
+Method 2:
+
+Q9H5F2	GO:0005634	1.00	cellular_component
+Q9H5F2	GO:0005829	0.99	cellular_component
+Q9H5F2	GO:0005737	0.98	cellular_component
+Q9H5F2	GO:0005654	0.97	cellular_component
+Q9H5F2	GO:0006351	0.97	biological_process
+Q9H5F2	GO:0003677	0.96	molecular_function
+Q9H5F2	GO:0005524	0.96	molecular_function
+Q9H5F2	GO:0008270	0.95	molecular_function
+Q9H5F2	GO:0005886	0.95	cellular_component
+Q9H5F2	GO:0045944	0.95	biological_process
+Q9H5F2	GO:0003700	0.94	molecular_function
+
+Method 3:
+
+Q9H5F2	GO:0005634	1.00	cellular_component
+
+>Fasta >P56539   >> Details:
+
+
+Method 1:
+
+P56539	GO:0000139	1.00	cellular_component
+P56539	GO:0005901	1.00	cellular_component
+P56539	GO:0031295	0.99	biological_process
+P56539	GO:0005768	0.99	cellular_component
+P56539	GO:0070836	0.99	biological_process
+P56539	GO:0048471	0.98	cellular_component
+P56539	GO:0001937	0.97	biological_process
+P56539	GO:0005783	0.96	cellular_component
+P56539	GO:0006641	0.95	biological_process
+P56539	GO:0042632	0.95	biological_process
+P56539	GO:0051001	0.95	biological_process
+
+Method 2:
+
+P56539	GO:0000139	1.00	cellular_component
+P56539	GO:0005901	1.00	cellular_component
+P56539	GO:0005768	0.99	cellular_component
+P56539	GO:0031295	0.99	biological_process
+P56539	GO:0048471	0.98	cellular_component
+P56539	GO:0070836	0.97	biological_process
+P56539	GO:0001937	0.96	biological_process
+P56539	GO:0005634	0.96	cellular_component
+P56539	GO:0005887	0.96	cellular_component
+P56539	GO:0005783	0.95	cellular_component
+P56539	GO:0000122	0.94	biological_process
+
+Method 3:
+
+P56539	GO:0005901	1.00	cellular_component
+P56539	GO:0000139	1.00	cellular_component
+P56539	GO:0031295	0.99	biological_process
+P56539	GO:0005768	0.99	cellular_component
+P56539	GO:0070836	0.98	biological_process
+P56539	GO:0048471	0.97	cellular_component
+P56539	GO:0001937	0.96	biological_process
+P56539	GO:0005783	0.95	cellular_component
+P56539	GO:0005887	0.94	cellular_component
+P56539	GO:0002080	0.93	cellular_component
+P56539	GO:0006641	0.92	biological_process
+
+>Fasta >Q96B02   >> Details:
+
+
+Method 1:
+
+Q96B02	GO:0005524	1.00	molecular_function
+Q96B02	GO:0004842	1.00	molecular_function
+Q96B02	GO:0005634	0.99	cellular_component
+Q96B02	GO:0005737	0.98	cellular_component
+Q96B02	GO:0006281	0.97	biological_process
+Q96B02	GO:0070979	0.96	biological_process
+Q96B02	GO:0006513	0.95	biological_process
+Q96B02	GO:0070936	0.93	biological_process
+Q96B02	GO:0043161	0.92	biological_process
+Q96B02	GO:0051301	0.88	biological_process
+Q96B02	GO:0006511	0.86	biological_process
+
+Method 2:
+
+Q96B02	GO:0004842	1.00	molecular_function
+Q96B02	GO:0005634	1.00	cellular_component
+Q96B02	GO:0005524	1.00	molecular_function
+Q96B02	GO:0005737	1.00	cellular_component
+Q96B02	GO:0070936	0.99	biological_process
+Q96B02	GO:0006281	0.98	biological_process
+Q96B02	GO:0070979	0.97	biological_process
+Q96B02	GO:0005829	0.97	cellular_component
+Q96B02	GO:0006351	0.97	biological_process
+Q96B02	GO:0005886	0.96	cellular_component
+Q96B02	GO:0006511	0.96	biological_process
+
+Method 3:
+
+Q96B02	GO:0005524	1.00	molecular_function
+Q96B02	GO:0004842	0.99	molecular_function
+Q96B02	GO:0005634	0.98	cellular_component
+Q96B02	GO:0070936	0.97	biological_process
+Q96B02	GO:0005737	0.96	cellular_component
+Q96B02	GO:0006281	0.95	biological_process
+Q96B02	GO:0070979	0.94	biological_process
+Q96B02	GO:0006513	0.93	biological_process
+Q96B02	GO:0006511	0.92	biological_process
+Q96B02	GO:0070534	0.91	biological_process
+Q96B02	GO:0043161	0.90	biological_process
+
+>Fasta >Q9NZ81   >> Details:
+
+
+Method 1:
+
+Q9NZ81	GO:0005737	0.73	cellular_component
+Q9NZ81	GO:0005525	0.67	molecular_function
+Q9NZ81	GO:0003677	0.60	molecular_function
+Q9NZ81	GO:0000166	0.60	molecular_function
+Q9NZ81	GO:0003924	0.57	molecular_function
+Q9NZ81	GO:0005886	0.57	cellular_component
+Q9NZ81	GO:0016021	0.57	cellular_component
+Q9NZ81	GO:0005524	0.56	molecular_function
+Q9NZ81	GO:0006950	0.56	biological_process
+Q9NZ81	GO:0006355	0.56	biological_process
+Q9NZ81	GO:0043565	0.56	molecular_function
+
+Method 2:
+
+Q9NZ81	GO:0005524	1.00	molecular_function
+Q9NZ81	GO:0005737	0.99	cellular_component
+Q9NZ81	GO:0005886	0.98	cellular_component
+Q9NZ81	GO:0004674	0.97	molecular_function
+Q9NZ81	GO:0043085	0.96	biological_process
+Q9NZ81	GO:0043086	0.95	biological_process
+Q9NZ81	GO:0016021	0.94	cellular_component
+Q9NZ81	GO:0005618	0.93	cellular_component
+Q9NZ81	GO:0046777	0.92	biological_process
+Q9NZ81	GO:0005576	0.92	cellular_component
+Q9NZ81	GO:0003924	0.91	molecular_function
+
+Method 3:
+
+Q9NZ81	GO:0006184	1.00	biological_process
+Q9NZ81	GO:0003924	1.00	molecular_function
+Q9NZ81	GO:0003743	1.00	molecular_function
+Q9NZ81	GO:0005525	1.00	molecular_function
+Q9NZ81	GO:0005737	0.99	cellular_component
+Q9NZ81	GO:0003677	0.98	molecular_function
+Q9NZ81	GO:0006260	0.98	biological_process
+Q9NZ81	GO:0003887	0.98	molecular_function
+Q9NZ81	GO:0000166	0.98	molecular_function
+Q9NZ81	GO:0003735	0.97	molecular_function
+Q9NZ81	GO:0005840	0.97	cellular_component
+
+>Fasta >P08700   >> Details:
+
+
+Method 1:
+
+P08700	GO:0005615	0.71	cellular_component
+P08700	GO:0006955	0.69	biological_process
+P08700	GO:0005886	0.57	cellular_component
+P08700	GO:0005524	0.57	molecular_function
+P08700	GO:0005737	0.57	cellular_component
+P08700	GO:0016021	0.57	cellular_component
+P08700	GO:0046872	0.57	molecular_function
+P08700	GO:0008284	0.56	biological_process
+P08700	GO:0005634	0.56	cellular_component
+P08700	GO:0006412	0.56	biological_process
+P08700	GO:0003735	0.56	molecular_function
+
+Method 2:
+
+P08700	GO:0005829	1.00	cellular_component
+P08700	GO:0005634	0.99	cellular_component
+P08700	GO:0005886	0.98	cellular_component
+P08700	GO:0005524	0.98	molecular_function
+P08700	GO:0045087	0.97	biological_process
+P08700	GO:0005737	0.97	cellular_component
+P08700	GO:0048011	0.96	biological_process
+P08700	GO:0005654	0.95	cellular_component
+P08700	GO:0005615	0.94	cellular_component
+P08700	GO:0038095	0.93	biological_process
+P08700	GO:0006351	0.92	biological_process
+
+Method 3:
+
+P08700	GO:0006955	1.00	biological_process
+P08700	GO:0005615	1.00	cellular_component
+P08700	GO:0042523	0.99	biological_process
+P08700	GO:0045740	0.99	biological_process
+P08700	GO:0035162	0.99	biological_process
+P08700	GO:0008284	0.98	biological_process
+P08700	GO:0007267	0.97	biological_process
+P08700	GO:0005135	0.97	molecular_function
+P08700	GO:0005125	0.97	molecular_function
+P08700	GO:0007399	0.97	biological_process
+P08700	GO:0050731	0.97	biological_process
+
+>Fasta >Q8N111   >> Details:
+
+
+Method 1:
+
+Q8N111	GO:0016021	0.61	cellular_component
+Q8N111	GO:0005737	0.56	cellular_component
+Q8N111	GO:0006412	0.56	biological_process
+Q8N111	GO:0003735	0.56	molecular_function
+Q8N111	GO:0005524	0.56	molecular_function
+Q8N111	GO:0005886	0.56	cellular_component
+Q8N111	GO:0046872	0.56	molecular_function
+Q8N111	GO:0005840	0.56	cellular_component
+Q8N111	GO:0005634	0.56	cellular_component
+Q8N111	GO:0003677	0.56	molecular_function
+Q8N111	GO:0006351	0.56	biological_process
+
+Method 2:
+
+Q8N111	GO:0016021	1.00	cellular_component
+Q8N111	GO:0005829	0.99	cellular_component
+Q8N111	GO:0005634	0.98	cellular_component
+Q8N111	GO:0007628	0.97	biological_process
+Q8N111	GO:0021933	0.97	biological_process
+Q8N111	GO:0021686	0.97	biological_process
+Q8N111	GO:0021702	0.97	biological_process
+Q8N111	GO:0021941	0.97	biological_process
+Q8N111	GO:0005524	0.96	molecular_function
+Q8N111	GO:0005654	0.96	cellular_component
+Q8N111	GO:0005737	0.96	cellular_component
+
+Method 3:
+
+Q8N111	GO:0016021	1.00	cellular_component
+Q8N111	GO:0021941	0.99	biological_process
+Q8N111	GO:0021702	0.99	biological_process
+Q8N111	GO:0021933	0.99	biological_process
+Q8N111	GO:0007628	0.99	biological_process
+Q8N111	GO:0021686	0.99	biological_process
+
+>Fasta >Q04941   >> Details:
+
+
+Method 1:
+
+Q04941	GO:0016021	0.75	cellular_component
+Q04941	GO:0005886	0.72	cellular_component
+Q04941	GO:0005737	0.58	cellular_component
+Q04941	GO:0005524	0.58	molecular_function
+Q04941	GO:0046872	0.57	molecular_function
+Q04941	GO:0003735	0.57	molecular_function
+Q04941	GO:0006412	0.57	biological_process
+Q04941	GO:0019843	0.56	molecular_function
+Q04941	GO:0005840	0.56	cellular_component
+Q04941	GO:0000049	0.56	molecular_function
+Q04941	GO:0055114	0.55	biological_process
+
+Method 2:
+
+Q04941	GO:0005829	1.00	cellular_component
+Q04941	GO:0005886	0.99	cellular_component
+Q04941	GO:0005634	0.99	cellular_component
+Q04941	GO:0016021	0.98	cellular_component
+Q04941	GO:0005737	0.97	cellular_component
+Q04941	GO:0005524	0.96	molecular_function
+Q04941	GO:0005654	0.95	cellular_component
+Q04941	GO:0045087	0.94	biological_process
+Q04941	GO:0006351	0.93	biological_process
+Q04941	GO:0008270	0.92	molecular_function
+Q04941	GO:0045944	0.91	biological_process
+
+Method 3:
+
+Q04941	GO:0016021	1.00	cellular_component
+Q04941	GO:0005886	0.99	cellular_component
+Q04941	GO:0015075	0.98	molecular_function
+Q04941	GO:0006935	0.98	biological_process
+Q04941	GO:0005789	0.98	cellular_component
+Q04941	GO:0019221	0.98	biological_process
+Q04941	GO:0019956	0.97	molecular_function
+
+>Fasta >Q53S99   >> Details:
+
+
+Method 1:
+
+Q53S99	GO:0016021	0.72	cellular_component
+Q53S99	GO:0005542	0.65	molecular_function
+Q53S99	GO:0008518	0.65	molecular_function
+Q53S99	GO:0005886	0.63	cellular_component
+Q53S99	GO:0005737	0.57	cellular_component
+Q53S99	GO:0005524	0.57	molecular_function
+Q53S99	GO:0006412	0.55	biological_process
+Q53S99	GO:0003735	0.55	molecular_function
+Q53S99	GO:0003677	0.54	molecular_function
+Q53S99	GO:0046872	0.54	molecular_function
+Q53S99	GO:0005634	0.54	cellular_component
+
+Method 2:
+
+Q53S99	GO:0005829	1.00	cellular_component
+Q53S99	GO:0016021	0.99	cellular_component
+Q53S99	GO:0005634	0.98	cellular_component
+Q53S99	GO:0005886	0.97	cellular_component
+Q53S99	GO:0005737	0.96	cellular_component
+Q53S99	GO:0008518	0.95	molecular_function
+Q53S99	GO:0005542	0.95	molecular_function
+Q53S99	GO:0005524	0.94	molecular_function
+Q53S99	GO:0005654	0.93	cellular_component
+Q53S99	GO:0006351	0.92	biological_process
+Q53S99	GO:0045087	0.91	biological_process
+
+Method 3:
+
+Q53S99	GO:0005542	1.00	molecular_function
+Q53S99	GO:0008518	1.00	molecular_function
+Q53S99	GO:0016021	0.99	cellular_component
+Q53S99	GO:0015403	0.98	molecular_function
+Q53S99	GO:0005886	0.98	cellular_component
+Q53S99	GO:0016020	0.97	cellular_component
+Q53S99	GO:0008517	0.96	molecular_function
+Q53S99	GO:0015888	0.95	biological_process
+Q53S99	GO:0042723	0.95	biological_process
+Q53S99	GO:0015350	0.94	molecular_function
+Q53S99	GO:0007565	0.93	biological_process
+
+>Fasta >Q16873   >> Details:
+
+
+Method 1:
+
+Q16873	GO:0016021	0.91	cellular_component
+Q16873	GO:0005789	0.90	cellular_component
+Q16873	GO:0008047	0.90	molecular_function
+Q16873	GO:0043085	0.90	biological_process
+Q16873	GO:0019370	0.90	biological_process
+Q16873	GO:0005783	0.81	cellular_component
+Q16873	GO:0004464	0.76	molecular_function
+Q16873	GO:0005635	0.75	cellular_component
+Q16873	GO:0004602	0.75	molecular_function
+Q16873	GO:0004364	0.75	molecular_function
+Q16873	GO:0005640	0.71	cellular_component
+
+Method 2:
+
+Q16873	GO:0016021	1.00	cellular_component
+Q16873	GO:0043085	0.99	biological_process
+Q16873	GO:0008047	0.99	molecular_function
+Q16873	GO:0019370	0.99	biological_process
+Q16873	GO:0005789	0.99	cellular_component
+Q16873	GO:0005783	0.98	cellular_component
+Q16873	GO:0031965	0.97	cellular_component
+Q16873	GO:0050544	0.97	molecular_function
+Q16873	GO:0071277	0.96	biological_process
+Q16873	GO:0070207	0.96	biological_process
+Q16873	GO:0002540	0.96	biological_process
+
+Method 3:
+
+Q16873	GO:0016021	1.00	cellular_component
+Q16873	GO:0005789	0.99	cellular_component
+Q16873	GO:0008047	0.99	molecular_function
+Q16873	GO:0043085	0.99	biological_process
+Q16873	GO:0019370	0.99	biological_process
+Q16873	GO:0005783	0.98	cellular_component
+Q16873	GO:0031965	0.97	cellular_component
+Q16873	GO:0050544	0.97	molecular_function
+Q16873	GO:0070207	0.96	biological_process
+Q16873	GO:0002540	0.96	biological_process
+Q16873	GO:0071277	0.96	biological_process
+
+>Fasta >P62158   >> Details:
+
+
+Method 1:
+
+P62158	GO:0005509	1.00	molecular_function
+P62158	GO:0005886	0.97	cellular_component
+P62158	GO:0005524	0.96	molecular_function
+P62158	GO:0005829	0.93	cellular_component
+P62158	GO:0005737	0.91	cellular_component
+P62158	GO:0005634	0.90	cellular_component
+P62158	GO:0016459	0.88	cellular_component
+P62158	GO:0004674	0.86	molecular_function
+P62158	GO:0016021	0.81	cellular_component
+P62158	GO:0019722	0.80	biological_process
+P62158	GO:0016020	0.77	cellular_component
+
+Method 2:
+
+P62158	GO:0005509	1.00	molecular_function
+P62158	GO:0005886	0.99	cellular_component
+P62158	GO:0005524	0.99	molecular_function
+P62158	GO:0005829	0.99	cellular_component
+P62158	GO:0005634	0.98	cellular_component
+P62158	GO:0005737	0.97	cellular_component
+P62158	GO:0004674	0.96	molecular_function
+P62158	GO:0016459	0.95	cellular_component
+P62158	GO:0030018	0.94	cellular_component
+P62158	GO:0016020	0.93	cellular_component
+P62158	GO:0016021	0.92	cellular_component
+
+Method 3:
+
+P62158	GO:0005509	1.00	molecular_function
+P62158	GO:0005886	0.99	cellular_component
+P62158	GO:0005524	0.98	molecular_function
+P62158	GO:0004674	0.97	molecular_function
+P62158	GO:0005829	0.96	cellular_component
+P62158	GO:0016459	0.95	cellular_component
+P62158	GO:0005737	0.94	cellular_component
+P62158	GO:0005634	0.93	cellular_component
+P62158	GO:0030018	0.92	cellular_component
+P62158	GO:0016020	0.91	cellular_component
+P62158	GO:0051017	0.90	biological_process
+
+>Fasta >Q9BPX5   >> Details:
+
+
+Method 1:
+
+Q9BPX5	GO:0030833	0.86	biological_process
+Q9BPX5	GO:0005737	0.84	cellular_component
+Q9BPX5	GO:0005856	0.83	cellular_component
+Q9BPX5	GO:0005829	0.66	cellular_component
+Q9BPX5	GO:0042995	0.64	cellular_component
+Q9BPX5	GO:0005634	0.58	cellular_component
+Q9BPX5	GO:0005524	0.58	molecular_function
+Q9BPX5	GO:0005886	0.58	cellular_component
+Q9BPX5	GO:0006351	0.58	biological_process
+Q9BPX5	GO:0046872	0.58	molecular_function
+Q9BPX5	GO:0008270	0.58	molecular_function
+
+Method 2:
+
+Q9BPX5	GO:0005737	1.00	cellular_component
+Q9BPX5	GO:0005829	0.99	cellular_component
+Q9BPX5	GO:0005634	0.98	cellular_component
+Q9BPX5	GO:0005524	0.97	molecular_function
+Q9BPX5	GO:0005654	0.96	cellular_component
+Q9BPX5	GO:0005886	0.95	cellular_component
+Q9BPX5	GO:0045087	0.94	biological_process
+Q9BPX5	GO:0005856	0.93	cellular_component
+Q9BPX5	GO:0043066	0.92	biological_process
+Q9BPX5	GO:0030833	0.91	biological_process
+Q9BPX5	GO:0006351	0.90	biological_process
+
+Method 3:
+
+Q9BPX5	GO:0030833	1.00	biological_process
+Q9BPX5	GO:0005737	0.99	cellular_component
+Q9BPX5	GO:0005856	0.98	cellular_component
+Q9BPX5	GO:0042995	0.97	cellular_component
+Q9BPX5	GO:0005885	0.96	cellular_component
+Q9BPX5	GO:0005829	0.95	cellular_component
+Q9BPX5	GO:0030027	0.94	cellular_component
+Q9BPX5	GO:0038096	0.93	biological_process
+Q9BPX5	GO:0045087	0.93	biological_process
+Q9BPX5	GO:0030036	0.93	biological_process
+Q9BPX5	GO:0006928	0.93	biological_process
+
+>Fasta >P62263   >> Details:
+
+
+Method 1:
+
+P62263	GO:0003735	1.00	molecular_function
+P62263	GO:0019843	1.00	molecular_function
+P62263	GO:0006412	1.00	biological_process
+P62263	GO:0005840	1.00	cellular_component
+P62263	GO:0022627	0.78	cellular_component
+P62263	GO:0009507	0.78	cellular_component
+P62263	GO:0005730	0.73	cellular_component
+P62263	GO:0000028	0.71	biological_process
+P62263	GO:0003723	0.68	molecular_function
+P62263	GO:0030490	0.66	biological_process
+P62263	GO:0005739	0.64	cellular_component
+
+Method 2:
+
+P62263	GO:0006412	1.00	biological_process
+P62263	GO:0019843	1.00	molecular_function
+P62263	GO:0003735	1.00	molecular_function
+P62263	GO:0005840	1.00	cellular_component
+P62263	GO:0022627	0.99	cellular_component
+P62263	GO:0005730	0.98	cellular_component
+P62263	GO:0005739	0.97	cellular_component
+P62263	GO:0000122	0.97	biological_process
+P62263	GO:0003723	0.97	molecular_function
+P62263	GO:0000184	0.96	biological_process
+P62263	GO:0006413	0.96	biological_process
+
+Method 3:
+
+P62263	GO:0003735	1.00	molecular_function
+P62263	GO:0005840	1.00	cellular_component
+P62263	GO:0006412	1.00	biological_process
+P62263	GO:0019843	0.99	molecular_function
+P62263	GO:0009507	0.98	cellular_component
+P62263	GO:0022627	0.97	cellular_component
+P62263	GO:0005730	0.96	cellular_component
+P62263	GO:0000028	0.95	biological_process
+P62263	GO:0030490	0.94	biological_process
+P62263	GO:0003723	0.93	molecular_function
+P62263	GO:0048027	0.92	molecular_function
+
+>Fasta >P27482   >> Details:
+
+
+Method 1:
+
+P27482	GO:0005509	1.00	molecular_function
+P27482	GO:0005886	0.97	cellular_component
+P27482	GO:0005524	0.96	molecular_function
+P27482	GO:0005829	0.92	cellular_component
+P27482	GO:0005737	0.92	cellular_component
+P27482	GO:0005634	0.90	cellular_component
+P27482	GO:0016459	0.87	cellular_component
+P27482	GO:0004674	0.84	molecular_function
+P27482	GO:0016021	0.81	cellular_component
+P27482	GO:0019722	0.79	biological_process
+P27482	GO:0000922	0.77	cellular_component
+
+Method 2:
+
+P27482	GO:0005509	1.00	molecular_function
+P27482	GO:0005886	0.99	cellular_component
+P27482	GO:0005524	0.99	molecular_function
+P27482	GO:0005829	0.99	cellular_component
+P27482	GO:0005634	0.98	cellular_component
+P27482	GO:0005737	0.98	cellular_component
+P27482	GO:0004674	0.97	molecular_function
+P27482	GO:0016459	0.96	cellular_component
+P27482	GO:0030018	0.95	cellular_component
+P27482	GO:0016020	0.94	cellular_component
+P27482	GO:0016021	0.93	cellular_component
+
+Method 3:
+
+P27482	GO:0005509	1.00	molecular_function
+P27482	GO:0005886	0.99	cellular_component
+P27482	GO:0005524	0.98	molecular_function
+P27482	GO:0004674	0.97	molecular_function
+P27482	GO:0005829	0.96	cellular_component
+P27482	GO:0005737	0.95	cellular_component
+P27482	GO:0016459	0.94	cellular_component
+P27482	GO:0005634	0.93	cellular_component
+P27482	GO:0030018	0.92	cellular_component
+P27482	GO:0016020	0.91	cellular_component
+P27482	GO:0051017	0.90	biological_process
+
+>Fasta >P61088   >> Details:
+
+
+Method 1:
+
+P61088	GO:0004842	1.00	molecular_function
+P61088	GO:0005524	1.00	molecular_function
+P61088	GO:0005634	1.00	cellular_component
+P61088	GO:0005737	0.99	cellular_component
+P61088	GO:0070936	0.98	biological_process
+P61088	GO:0006281	0.98	biological_process
+P61088	GO:0006511	0.96	biological_process
+P61088	GO:0070979	0.95	biological_process
+P61088	GO:0070534	0.95	biological_process
+P61088	GO:0051301	0.93	biological_process
+P61088	GO:0005829	0.90	cellular_component
+
+Method 2:
+
+P61088	GO:0004842	1.00	molecular_function
+P61088	GO:0005634	1.00	cellular_component
+P61088	GO:0005524	1.00	molecular_function
+P61088	GO:0005737	1.00	cellular_component
+P61088	GO:0070936	0.99	biological_process
+P61088	GO:0006281	0.99	biological_process
+P61088	GO:0070979	0.98	biological_process
+P61088	GO:0005829	0.98	cellular_component
+P61088	GO:0051301	0.97	biological_process
+P61088	GO:0005886	0.97	cellular_component
+P61088	GO:0006351	0.97	biological_process
+
+Method 3:
+
+P61088	GO:0004842	1.00	molecular_function
+P61088	GO:0005524	1.00	molecular_function
+P61088	GO:0005634	0.99	cellular_component
+P61088	GO:0070936	0.98	biological_process
+P61088	GO:0005737	0.97	cellular_component
+P61088	GO:0070979	0.96	biological_process
+P61088	GO:0006281	0.95	biological_process
+P61088	GO:0006511	0.94	biological_process
+P61088	GO:0051301	0.93	biological_process
+P61088	GO:0070534	0.92	biological_process
+P61088	GO:0006513	0.91	biological_process
+
+>Fasta >Q9NX01   >> Details:
+
+
+Method 1:
+
+Q9NX01	GO:0007067	0.79	biological_process
+Q9NX01	GO:0005681	0.79	cellular_component
+Q9NX01	GO:0051301	0.71	biological_process
+Q9NX01	GO:0005634	0.60	cellular_component
+Q9NX01	GO:0006397	0.59	biological_process
+Q9NX01	GO:0005737	0.58	cellular_component
+Q9NX01	GO:0005524	0.58	molecular_function
+Q9NX01	GO:0005886	0.58	cellular_component
+Q9NX01	GO:0016021	0.57	cellular_component
+Q9NX01	GO:0046872	0.56	molecular_function
+Q9NX01	GO:0003735	0.56	molecular_function
+
+Method 2:
+
+Q9NX01	GO:0005829	1.00	cellular_component
+Q9NX01	GO:0005634	0.99	cellular_component
+Q9NX01	GO:0005654	0.99	cellular_component
+Q9NX01	GO:0005737	0.98	cellular_component
+Q9NX01	GO:0003723	0.97	molecular_function
+Q9NX01	GO:0005681	0.96	cellular_component
+Q9NX01	GO:0005524	0.95	molecular_function
+Q9NX01	GO:0000398	0.94	biological_process
+Q9NX01	GO:0007067	0.93	biological_process
+Q9NX01	GO:0071013	0.92	cellular_component
+Q9NX01	GO:0005730	0.91	cellular_component
+
+Method 3:
+
+Q9NX01	GO:0007067	1.00	biological_process
+Q9NX01	GO:0005681	1.00	cellular_component
+Q9NX01	GO:0051301	0.99	biological_process
+Q9NX01	GO:0000398	0.98	biological_process
+Q9NX01	GO:0046540	0.97	cellular_component
+Q9NX01	GO:0008380	0.96	biological_process
+Q9NX01	GO:0006397	0.96	biological_process
+Q9NX01	GO:0005682	0.95	cellular_component
+Q9NX01	GO:0000245	0.94	biological_process
+Q9NX01	GO:0005654	0.94	cellular_component
+Q9NX01	GO:0045292	0.93	biological_process
+
+>Fasta >Q2M5E4   >> Details:
+
+
+Method 1:
+
+Q2M5E4	GO:0005886	1.00	cellular_component
+Q2M5E4	GO:0038032	1.00	biological_process
+Q2M5E4	GO:0005737	0.99	cellular_component
+Q2M5E4	GO:0005096	0.99	molecular_function
+Q2M5E4	GO:0005634	0.93	cellular_component
+Q2M5E4	GO:0007186	0.84	biological_process
+Q2M5E4	GO:0004871	0.77	molecular_function
+Q2M5E4	GO:0005829	0.77	cellular_component
+Q2M5E4	GO:0008277	0.67	biological_process
+Q2M5E4	GO:0007049	0.60	biological_process
+Q2M5E4	GO:0035556	0.59	biological_process
+
+Method 2:
+
+Q2M5E4	GO:0005886	1.00	cellular_component
+Q2M5E4	GO:0005096	1.00	molecular_function
+Q2M5E4	GO:0005737	1.00	cellular_component
+Q2M5E4	GO:0038032	1.00	biological_process
+Q2M5E4	GO:0005634	0.99	cellular_component
+Q2M5E4	GO:0005829	0.98	cellular_component
+Q2M5E4	GO:0004871	0.97	molecular_function
+Q2M5E4	GO:0007186	0.96	biological_process
+Q2M5E4	GO:0005524	0.95	molecular_function
+Q2M5E4	GO:0005654	0.94	cellular_component
+Q2M5E4	GO:0045087	0.93	biological_process
+
+Method 3:
+
+Q2M5E4	GO:0038032	1.00	biological_process
+Q2M5E4	GO:0005096	0.99	molecular_function
+Q2M5E4	GO:0005886	0.98	cellular_component
+Q2M5E4	GO:0005737	0.97	cellular_component
+Q2M5E4	GO:0005634	0.96	cellular_component
+Q2M5E4	GO:0007186	0.95	biological_process
+Q2M5E4	GO:0004871	0.94	molecular_function
+Q2M5E4	GO:0008277	0.93	biological_process
+Q2M5E4	GO:0005829	0.92	cellular_component
+Q2M5E4	GO:0014069	0.91	cellular_component
+Q2M5E4	GO:0035556	0.90	biological_process
+
+>Fasta >O60894   >> Details:
+
+
+Method 1:
+
+O60894	GO:0016021	0.73	cellular_component
+O60894	GO:0008565	0.71	molecular_function
+O60894	GO:0006886	0.71	biological_process
+O60894	GO:0008277	0.71	biological_process
+O60894	GO:0005886	0.70	cellular_component
+O60894	GO:0009986	0.67	cellular_component
+O60894	GO:0001525	0.67	biological_process
+O60894	GO:0072659	0.66	biological_process
+O60894	GO:0015026	0.66	molecular_function
+O60894	GO:0006816	0.66	biological_process
+O60894	GO:0043235	0.66	cellular_component
+
+Method 2:
+
+O60894	GO:0008565	1.00	molecular_function
+O60894	GO:0008277	1.00	biological_process
+O60894	GO:0006886	1.00	biological_process
+O60894	GO:0043235	0.99	cellular_component
+O60894	GO:0006816	0.99	biological_process
+O60894	GO:0004948	0.99	molecular_function
+O60894	GO:0072659	0.99	biological_process
+O60894	GO:0060050	0.99	biological_process
+O60894	GO:0016021	0.99	cellular_component
+O60894	GO:0030819	0.99	biological_process
+O60894	GO:0001525	0.99	biological_process
+
+Method 3:
+
+O60894	GO:0008565	1.00	molecular_function
+O60894	GO:0006886	1.00	biological_process
+O60894	GO:0008277	1.00	biological_process
+O60894	GO:0001525	0.99	biological_process
+O60894	GO:0015026	0.99	molecular_function
+O60894	GO:0072659	0.99	biological_process
+O60894	GO:0030819	0.99	biological_process
+O60894	GO:0043235	0.99	cellular_component
+O60894	GO:0009986	0.99	cellular_component
+O60894	GO:0060050	0.99	biological_process
+O60894	GO:0006816	0.99	biological_process
+
+>Fasta >P61626   >> Details:
+
+
+Method 1:
+
+P61626	GO:0016998	1.00	biological_process
+P61626	GO:0003796	1.00	molecular_function
+P61626	GO:0019835	1.00	biological_process
+P61626	GO:0042742	1.00	biological_process
+P61626	GO:0005576	1.00	cellular_component
+P61626	GO:0007586	0.91	biological_process
+P61626	GO:0005509	0.71	molecular_function
+P61626	GO:0016021	0.70	cellular_component
+P61626	GO:0005989	0.69	biological_process
+P61626	GO:0046872	0.68	molecular_function
+P61626	GO:0004461	0.66	molecular_function
+
+Method 2:
+
+P61626	GO:0042742	1.00	biological_process
+P61626	GO:0019835	1.00	biological_process
+P61626	GO:0003796	1.00	molecular_function
+P61626	GO:0016998	1.00	biological_process
+P61626	GO:0005576	1.00	cellular_component
+P61626	GO:0007586	0.99	biological_process
+P61626	GO:0005989	0.98	biological_process
+P61626	GO:0005509	0.97	molecular_function
+P61626	GO:0004461	0.97	molecular_function
+P61626	GO:0016021	0.96	cellular_component
+P61626	GO:0050830	0.95	biological_process
+
+Method 3:
+
+P61626	GO:0003796	1.00	molecular_function
+P61626	GO:0016998	0.99	biological_process
+P61626	GO:0019835	0.98	biological_process
+P61626	GO:0042742	0.97	biological_process
+P61626	GO:0005576	0.96	cellular_component
+P61626	GO:0007586	0.95	biological_process
+P61626	GO:0005989	0.94	biological_process
+P61626	GO:0005509	0.93	molecular_function
+P61626	GO:0004461	0.93	molecular_function
+P61626	GO:0050830	0.92	biological_process
+P61626	GO:0002080	0.91	cellular_component
+
+>Fasta >Q9Y3D6   >> Details:
+
+
+Method 1:
+
+Q9Y3D6	GO:0043234	0.71	cellular_component
+Q9Y3D6	GO:0051260	0.71	biological_process
+Q9Y3D6	GO:0016559	0.70	biological_process
+Q9Y3D6	GO:0001836	0.70	biological_process
+Q9Y3D6	GO:0005779	0.70	cellular_component
+Q9Y3D6	GO:2001244	0.70	biological_process
+Q9Y3D6	GO:0007204	0.70	biological_process
+Q9Y3D6	GO:0006626	0.70	biological_process
+Q9Y3D6	GO:0043280	0.70	biological_process
+Q9Y3D6	GO:0031307	0.70	cellular_component
+Q9Y3D6	GO:0000422	0.70	biological_process
+
+Method 2:
+
+Q9Y3D6	GO:0005829	1.00	cellular_component
+Q9Y3D6	GO:0005634	0.99	cellular_component
+Q9Y3D6	GO:0005524	0.98	molecular_function
+Q9Y3D6	GO:0005737	0.97	cellular_component
+Q9Y3D6	GO:0045087	0.96	biological_process
+Q9Y3D6	GO:0005886	0.95	cellular_component
+Q9Y3D6	GO:0005654	0.94	cellular_component
+Q9Y3D6	GO:0008270	0.93	molecular_function
+Q9Y3D6	GO:0016021	0.92	cellular_component
+Q9Y3D6	GO:0045944	0.91	biological_process
+Q9Y3D6	GO:0006351	0.90	biological_process
+
+Method 3:
+
+Q9Y3D6	GO:0010821	1.00	biological_process
+Q9Y3D6	GO:0005779	1.00	cellular_component
+Q9Y3D6	GO:0016559	1.00	biological_process
+Q9Y3D6	GO:0043280	1.00	biological_process
+Q9Y3D6	GO:0000422	1.00	biological_process
+Q9Y3D6	GO:0001836	1.00	biological_process
+Q9Y3D6	GO:0051561	1.00	biological_process
+Q9Y3D6	GO:2001244	1.00	biological_process
+Q9Y3D6	GO:0043234	1.00	cellular_component
+Q9Y3D6	GO:0051260	1.00	biological_process
+Q9Y3D6	GO:0070584	1.00	biological_process
+
+>Fasta >P53567   >> Details:
+
+
+Method 1:
+
+P53567	GO:0005634	0.68	cellular_component
+P53567	GO:0006351	0.68	biological_process
+P53567	GO:0043565	0.67	molecular_function
+P53567	GO:0043433	0.66	biological_process
+P53567	GO:0016071	0.66	biological_process
+P53567	GO:0045739	0.66	biological_process
+P53567	GO:0003700	0.65	molecular_function
+P53567	GO:0030183	0.65	biological_process
+P53567	GO:0042267	0.65	biological_process
+P53567	GO:0045078	0.65	biological_process
+P53567	GO:0043353	0.65	biological_process
+
+Method 2:
+
+P53567	GO:0005634	1.00	cellular_component
+P53567	GO:0005829	0.99	cellular_component
+P53567	GO:0006351	0.99	biological_process
+P53567	GO:0005737	0.99	cellular_component
+P53567	GO:0005654	0.98	cellular_component
+P53567	GO:0005524	0.97	molecular_function
+P53567	GO:0003700	0.96	molecular_function
+P53567	GO:0045944	0.96	biological_process
+P53567	GO:0005886	0.95	cellular_component
+P53567	GO:0008270	0.94	molecular_function
+P53567	GO:0003677	0.94	molecular_function
+
+Method 3:
+
+P53567	GO:0043433	1.00	biological_process
+P53567	GO:0043353	1.00	biological_process
+P53567	GO:0045078	1.00	biological_process
+P53567	GO:0045739	1.00	biological_process
+P53567	GO:0043565	1.00	molecular_function
+P53567	GO:0030183	1.00	biological_process
+P53567	GO:0005634	1.00	cellular_component
+P53567	GO:0042267	1.00	biological_process
+P53567	GO:0006351	1.00	biological_process
+P53567	GO:0016071	1.00	biological_process
+P53567	GO:0003700	0.99	molecular_function
+
+>Fasta >Q5R387   >> Details:
+
+
+Method 1:
+
+Q5R387	GO:0005509	1.00	molecular_function
+Q5R387	GO:0005576	1.00	cellular_component
+Q5R387	GO:0016042	1.00	biological_process
+Q5R387	GO:0006644	1.00	biological_process
+Q5R387	GO:0004623	1.00	molecular_function
+Q5R387	GO:0072556	0.99	cellular_component
+Q5R387	GO:0006954	0.94	biological_process
+Q5R387	GO:0047498	0.68	molecular_function
+Q5R387	GO:0035792	0.67	cellular_component
+Q5R387	GO:0005886	0.63	cellular_component
+Q5R387	GO:0005615	0.61	cellular_component
+
+Method 2:
+
+Q5R387	GO:0016042	1.00	biological_process
+Q5R387	GO:0004623	1.00	molecular_function
+Q5R387	GO:0072556	1.00	cellular_component
+Q5R387	GO:0005509	1.00	molecular_function
+Q5R387	GO:0006644	1.00	biological_process
+Q5R387	GO:0005576	1.00	cellular_component
+Q5R387	GO:0006954	0.99	biological_process
+Q5R387	GO:0005829	0.98	cellular_component
+Q5R387	GO:0005634	0.97	cellular_component
+Q5R387	GO:0005737	0.96	cellular_component
+Q5R387	GO:0005886	0.95	cellular_component
+
+Method 3:
+
+Q5R387	GO:0005509	1.00	molecular_function
+Q5R387	GO:0006644	1.00	biological_process
+Q5R387	GO:0005576	1.00	cellular_component
+Q5R387	GO:0004623	1.00	molecular_function
+Q5R387	GO:0016042	1.00	biological_process
+Q5R387	GO:0072556	0.99	cellular_component
+Q5R387	GO:0006954	0.98	biological_process
+Q5R387	GO:0035792	0.97	cellular_component
+Q5R387	GO:0042742	0.96	biological_process
+Q5R387	GO:0047498	0.95	molecular_function
+Q5R387	GO:0019834	0.94	molecular_function
+
+>Fasta >Q9GZV4   >> Details:
+
+
+Method 1:
+
+Q9GZV4	GO:0003746	1.00	molecular_function
+Q9GZV4	GO:0043022	1.00	molecular_function
+Q9GZV4	GO:0008612	1.00	biological_process
+Q9GZV4	GO:0045901	1.00	biological_process
+Q9GZV4	GO:0045905	1.00	biological_process
+Q9GZV4	GO:0006452	1.00	biological_process
+Q9GZV4	GO:0003743	1.00	molecular_function
+Q9GZV4	GO:0005737	1.00	cellular_component
+Q9GZV4	GO:0005789	0.88	cellular_component
+Q9GZV4	GO:0005643	0.88	cellular_component
+Q9GZV4	GO:0015031	0.86	biological_process
+
+Method 2:
+
+Q9GZV4	GO:0043022	1.00	molecular_function
+Q9GZV4	GO:0045905	1.00	biological_process
+Q9GZV4	GO:0003743	1.00	molecular_function
+Q9GZV4	GO:0003746	1.00	molecular_function
+Q9GZV4	GO:0006452	1.00	biological_process
+Q9GZV4	GO:0045901	1.00	biological_process
+Q9GZV4	GO:0005737	1.00	cellular_component
+Q9GZV4	GO:0008612	1.00	biological_process
+Q9GZV4	GO:0005789	0.99	cellular_component
+Q9GZV4	GO:0008284	0.98	biological_process
+Q9GZV4	GO:0015031	0.98	biological_process
+
+Method 3:
+
+Q9GZV4	GO:0003746	1.00	molecular_function
+Q9GZV4	GO:0045905	0.99	biological_process
+Q9GZV4	GO:0008612	0.99	biological_process
+Q9GZV4	GO:0006452	0.99	biological_process
+Q9GZV4	GO:0043022	0.99	molecular_function
+Q9GZV4	GO:0045901	0.99	biological_process
+Q9GZV4	GO:0003743	0.98	molecular_function
+Q9GZV4	GO:0005737	0.97	cellular_component
+Q9GZV4	GO:0005789	0.96	cellular_component
+Q9GZV4	GO:0005643	0.96	cellular_component
+Q9GZV4	GO:0015031	0.95	biological_process
+
+>Fasta >Q6ISS4   >> Details:
+
+
+Method 1:
+
+Q6ISS4	GO:0016021	0.95	cellular_component
+Q6ISS4	GO:0005886	0.86	cellular_component
+Q6ISS4	GO:0005576	0.71	cellular_component
+Q6ISS4	GO:0005737	0.65	cellular_component
+Q6ISS4	GO:0005887	0.65	cellular_component
+Q6ISS4	GO:0005524	0.58	molecular_function
+Q6ISS4	GO:0046872	0.56	molecular_function
+Q6ISS4	GO:0006412	0.56	biological_process
+Q6ISS4	GO:0003735	0.56	molecular_function
+Q6ISS4	GO:0005840	0.56	cellular_component
+Q6ISS4	GO:0005634	0.55	cellular_component
+
+Method 2:
+
+Q6ISS4	GO:0016021	1.00	cellular_component
+Q6ISS4	GO:0005886	0.99	cellular_component
+Q6ISS4	GO:0005829	0.98	cellular_component
+Q6ISS4	GO:0005887	0.97	cellular_component
+Q6ISS4	GO:0005634	0.96	cellular_component
+Q6ISS4	GO:0045087	0.95	biological_process
+Q6ISS4	GO:0005524	0.94	molecular_function
+Q6ISS4	GO:0005737	0.93	cellular_component
+Q6ISS4	GO:0005576	0.92	cellular_component
+Q6ISS4	GO:0045944	0.91	biological_process
+Q6ISS4	GO:0004888	0.90	molecular_function
+
+Method 3:
+
+Q6ISS4	GO:0016021	1.00	cellular_component
+Q6ISS4	GO:0005886	0.99	cellular_component
+Q6ISS4	GO:0005887	0.98	cellular_component
+Q6ISS4	GO:0005576	0.97	cellular_component
+Q6ISS4	GO:0004888	0.96	molecular_function
+Q6ISS4	GO:0006952	0.95	biological_process
+Q6ISS4	GO:0050776	0.94	biological_process
+Q6ISS4	GO:0003823	0.93	molecular_function
+Q6ISS4	GO:0004872	0.92	molecular_function
+Q6ISS4	GO:0007166	0.91	biological_process
+Q6ISS4	GO:0045087	0.90	biological_process
+
+>Fasta >O43924   >> Details:
+
+
+Method 1:
+
+O43924	GO:0007601	0.95	biological_process
+O43924	GO:0004114	0.95	molecular_function
+O43924	GO:0005737	0.92	cellular_component
+O43924	GO:0005634	0.92	cellular_component
+O43924	GO:0005095	0.73	molecular_function
+O43924	GO:0033124	0.73	biological_process
+O43924	GO:0050896	0.68	biological_process
+O43924	GO:0005524	0.59	molecular_function
+O43924	GO:0005886	0.58	cellular_component
+O43924	GO:0005829	0.58	cellular_component
+O43924	GO:0016021	0.58	cellular_component
+
+Method 2:
+
+O43924	GO:0005634	1.00	cellular_component
+O43924	GO:0005737	1.00	cellular_component
+O43924	GO:0007601	0.99	biological_process
+O43924	GO:0004114	0.98	molecular_function
+O43924	GO:0005829	0.97	cellular_component
+O43924	GO:0005886	0.96	cellular_component
+O43924	GO:0005524	0.96	molecular_function
+O43924	GO:0005654	0.95	cellular_component
+O43924	GO:0045087	0.94	biological_process
+O43924	GO:0008270	0.93	molecular_function
+O43924	GO:0006351	0.93	biological_process
+
+Method 3:
+
+O43924	GO:0007601	1.00	biological_process
+O43924	GO:0004114	0.99	molecular_function
+O43924	GO:0005737	0.98	cellular_component
+O43924	GO:0005634	0.98	cellular_component
+O43924	GO:0033124	0.97	biological_process
+O43924	GO:0005095	0.97	molecular_function
+O43924	GO:0050896	0.96	biological_process
+O43924	GO:0007602	0.95	biological_process
+O43924	GO:0047555	0.95	molecular_function
+O43924	GO:0016319	0.94	biological_process
+
+>Fasta >Q6UWQ5   >> Details:
+
+
+Method 1:
+
+Q6UWQ5	GO:0003796	1.00	molecular_function
+Q6UWQ5	GO:0016998	1.00	biological_process
+Q6UWQ5	GO:0005576	1.00	cellular_component
+Q6UWQ5	GO:0042742	1.00	biological_process
+Q6UWQ5	GO:0019835	1.00	biological_process
+Q6UWQ5	GO:0007586	0.81	biological_process
+Q6UWQ5	GO:0005509	0.72	molecular_function
+Q6UWQ5	GO:0016021	0.70	cellular_component
+Q6UWQ5	GO:0005989	0.69	biological_process
+Q6UWQ5	GO:0046872	0.67	molecular_function
+Q6UWQ5	GO:0004461	0.67	molecular_function
+
+Method 2:
+
+Q6UWQ5	GO:0042742	1.00	biological_process
+Q6UWQ5	GO:0019835	1.00	biological_process
+Q6UWQ5	GO:0003796	1.00	molecular_function
+Q6UWQ5	GO:0016998	1.00	biological_process
+Q6UWQ5	GO:0005576	1.00	cellular_component
+Q6UWQ5	GO:0007586	0.99	biological_process
+Q6UWQ5	GO:0005989	0.98	biological_process
+Q6UWQ5	GO:0005509	0.97	molecular_function
+Q6UWQ5	GO:0004461	0.97	molecular_function
+Q6UWQ5	GO:0016021	0.96	cellular_component
+Q6UWQ5	GO:0050830	0.95	biological_process
+
+Method 3:
+
+Q6UWQ5	GO:0003796	1.00	molecular_function
+Q6UWQ5	GO:0016998	0.99	biological_process
+Q6UWQ5	GO:0019835	0.98	biological_process
+Q6UWQ5	GO:0042742	0.97	biological_process
+Q6UWQ5	GO:0005576	0.96	cellular_component
+Q6UWQ5	GO:0007586	0.95	biological_process
+Q6UWQ5	GO:0005989	0.94	biological_process
+Q6UWQ5	GO:0004461	0.93	molecular_function
+Q6UWQ5	GO:0005509	0.93	molecular_function
+Q6UWQ5	GO:0050830	0.92	biological_process
+Q6UWQ5	GO:0002080	0.91	cellular_component
+
+>Fasta >P01160   >> Details:
+
+
+Method 1:
+
+P01160	GO:0050880	0.88	biological_process
+P01160	GO:0006182	0.88	biological_process
+P01160	GO:0007168	0.88	biological_process
+P01160	GO:0008217	0.87	biological_process
+P01160	GO:0007565	0.87	biological_process
+P01160	GO:0005615	0.81	cellular_component
+P01160	GO:0014898	0.80	biological_process
+P01160	GO:0005737	0.77	cellular_component
+P01160	GO:0005576	0.74	cellular_component
+P01160	GO:0005634	0.69	cellular_component
+P01160	GO:0048471	0.65	cellular_component
+
+Method 2:
+
+P01160	GO:0050880	1.00	biological_process
+P01160	GO:0007168	1.00	biological_process
+P01160	GO:0006182	1.00	biological_process
+P01160	GO:0007565	0.99	biological_process
+P01160	GO:0008217	0.99	biological_process
+P01160	GO:0005615	0.98	cellular_component
+P01160	GO:0014898	0.97	biological_process
+P01160	GO:0005737	0.96	cellular_component
+P01160	GO:0005634	0.95	cellular_component
+P01160	GO:0048471	0.94	cellular_component
+P01160	GO:0030308	0.93	biological_process
+
+Method 3:
+
+P01160	GO:0050880	1.00	biological_process
+P01160	GO:0007168	0.99	biological_process
+P01160	GO:0006182	0.99	biological_process
+P01160	GO:0007565	0.98	biological_process
+P01160	GO:0008217	0.98	biological_process
+P01160	GO:0014898	0.97	biological_process
+P01160	GO:0005615	0.97	cellular_component
+P01160	GO:0005737	0.96	cellular_component
+P01160	GO:0005576	0.95	cellular_component
+P01160	GO:0042629	0.94	cellular_component
+P01160	GO:0032868	0.94	biological_process
+
+>Fasta >Q53GA4   >> Details:
+
+
+Method 1:
+
+Q53GA4	GO:0005737	0.84	cellular_component
+Q53GA4	GO:0005543	0.80	molecular_function
+Q53GA4	GO:0016020	0.77	cellular_component
+Q53GA4	GO:0005886	0.76	cellular_component
+Q53GA4	GO:0006915	0.66	biological_process
+Q53GA4	GO:0005634	0.61	cellular_component
+Q53GA4	GO:0005730	0.59	cellular_component
+Q53GA4	GO:0009887	0.59	biological_process
+Q53GA4	GO:0005524	0.58	molecular_function
+Q53GA4	GO:0006351	0.58	biological_process
+Q53GA4	GO:0003677	0.58	molecular_function
+
+Method 2:
+
+Q53GA4	GO:0005737	1.00	cellular_component
+Q53GA4	GO:0005886	0.99	cellular_component
+Q53GA4	GO:0005634	0.98	cellular_component
+Q53GA4	GO:0005524	0.97	molecular_function
+Q53GA4	GO:0005654	0.97	cellular_component
+Q53GA4	GO:0005829	0.97	cellular_component
+Q53GA4	GO:0006351	0.97	biological_process
+Q53GA4	GO:0008270	0.96	molecular_function
+Q53GA4	GO:0005730	0.96	cellular_component
+Q53GA4	GO:0003677	0.96	molecular_function
+Q53GA4	GO:0045944	0.96	biological_process
+
+Method 3:
+
+Q53GA4	GO:0005737	1.00	cellular_component
+Q53GA4	GO:0005543	0.99	molecular_function
+Q53GA4	GO:0016020	0.98	cellular_component
+Q53GA4	GO:0005886	0.97	cellular_component
+Q53GA4	GO:0006917	0.96	biological_process
+Q53GA4	GO:0080025	0.95	molecular_function
+Q53GA4	GO:0051898	0.95	biological_process
+Q53GA4	GO:0032266	0.95	molecular_function
+Q53GA4	GO:0043065	0.95	biological_process
+Q53GA4	GO:0005546	0.95	molecular_function
+Q53GA4	GO:0010314	0.95	molecular_function
+
+>Fasta >Q8N6K0   >> Details:
+
+
+Method 1:
+
+Q8N6K0	GO:0016021	0.74	cellular_component
+Q8N6K0	GO:0005886	0.57	cellular_component
+Q8N6K0	GO:0005737	0.57	cellular_component
+Q8N6K0	GO:0005524	0.57	molecular_function
+Q8N6K0	GO:0005634	0.57	cellular_component
+Q8N6K0	GO:0006412	0.56	biological_process
+Q8N6K0	GO:0003735	0.56	molecular_function
+Q8N6K0	GO:0005840	0.56	cellular_component
+Q8N6K0	GO:0019843	0.56	molecular_function
+Q8N6K0	GO:0006351	0.56	biological_process
+Q8N6K0	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+Q8N6K0	GO:0016021	1.00	cellular_component
+Q8N6K0	GO:0005634	0.99	cellular_component
+Q8N6K0	GO:0005886	0.98	cellular_component
+Q8N6K0	GO:0005509	0.97	molecular_function
+Q8N6K0	GO:0005737	0.96	cellular_component
+Q8N6K0	GO:0005887	0.95	cellular_component
+Q8N6K0	GO:0005829	0.94	cellular_component
+Q8N6K0	GO:0007155	0.93	biological_process
+Q8N6K0	GO:0007156	0.92	biological_process
+Q8N6K0	GO:0005524	0.91	molecular_function
+Q8N6K0	GO:0007399	0.90	biological_process
+
+Method 3:
+
+Q8N6K0	GO:0016021	1.00	cellular_component
+
+>Fasta >Q92982   >> Details:
+
+
+Method 1:
+
+Q92982	GO:0016021	0.75	cellular_component
+Q92982	GO:0042246	0.74	biological_process
+Q92982	GO:0007155	0.73	biological_process
+Q92982	GO:0005737	0.57	cellular_component
+Q92982	GO:0005886	0.56	cellular_component
+Q92982	GO:0005524	0.56	molecular_function
+Q92982	GO:0046872	0.56	molecular_function
+Q92982	GO:0006412	0.56	biological_process
+Q92982	GO:0003735	0.56	molecular_function
+Q92982	GO:0008137	0.55	molecular_function
+Q92982	GO:0005506	0.55	molecular_function
+
+Method 2:
+
+Q92982	GO:0042246	1.00	biological_process
+Q92982	GO:0007155	0.99	biological_process
+Q92982	GO:0016021	0.98	cellular_component
+Q92982	GO:0007399	0.97	biological_process
+Q92982	GO:0005887	0.96	cellular_component
+Q92982	GO:0005737	0.95	cellular_component
+Q92982	GO:0005886	0.94	cellular_component
+Q92982	GO:0000139	0.93	cellular_component
+Q92982	GO:0007275	0.92	biological_process
+Q92982	GO:0005634	0.91	cellular_component
+Q92982	GO:0008385	0.90	cellular_component
+
+Method 3:
+
+Q92982	GO:0042246	1.00	biological_process
+Q92982	GO:0007155	0.99	biological_process
+Q92982	GO:0016021	0.99	cellular_component
+Q92982	GO:0007399	0.98	biological_process
+Q92982	GO:0007158	0.97	biological_process
+Q92982	GO:0005887	0.97	cellular_component
+
+>Fasta >Q9P0M9   >> Details:
+
+
+Method 1:
+
+Q9P0M9	GO:0003735	0.69	molecular_function
+Q9P0M9	GO:0006412	0.68	biological_process
+Q9P0M9	GO:0005840	0.65	cellular_component
+Q9P0M9	GO:0005739	0.60	cellular_component
+Q9P0M9	GO:0005737	0.57	cellular_component
+Q9P0M9	GO:0005524	0.57	molecular_function
+Q9P0M9	GO:0005886	0.57	cellular_component
+Q9P0M9	GO:0003677	0.56	molecular_function
+Q9P0M9	GO:0016021	0.56	cellular_component
+Q9P0M9	GO:0005634	0.56	cellular_component
+Q9P0M9	GO:0046872	0.56	molecular_function
+
+Method 2:
+
+Q9P0M9	GO:0003735	1.00	molecular_function
+Q9P0M9	GO:0006412	0.99	biological_process
+Q9P0M9	GO:0005739	0.98	cellular_component
+Q9P0M9	GO:0005829	0.97	cellular_component
+Q9P0M9	GO:0005634	0.96	cellular_component
+Q9P0M9	GO:0005840	0.95	cellular_component
+Q9P0M9	GO:0005524	0.95	molecular_function
+Q9P0M9	GO:0005737	0.95	cellular_component
+Q9P0M9	GO:0005654	0.94	cellular_component
+Q9P0M9	GO:0006351	0.94	biological_process
+Q9P0M9	GO:0008270	0.93	molecular_function
+
+Method 3:
+
+Q9P0M9	GO:0003735	1.00	molecular_function
+Q9P0M9	GO:0006412	1.00	biological_process
+Q9P0M9	GO:0005840	0.99	cellular_component
+Q9P0M9	GO:0005739	0.99	cellular_component
+Q9P0M9	GO:0005762	0.98	cellular_component
+
+>Fasta >P59103   >> Details:
+
+
+Method 1:
+
+P59103	GO:0005737	0.56	cellular_component
+P59103	GO:0005524	0.56	molecular_function
+P59103	GO:0000036	0.56	molecular_function
+P59103	GO:0005886	0.56	cellular_component
+P59103	GO:0016021	0.56	cellular_component
+P59103	GO:0006412	0.55	biological_process
+P59103	GO:0046872	0.55	molecular_function
+P59103	GO:0003735	0.54	molecular_function
+P59103	GO:0003677	0.54	molecular_function
+P59103	GO:0005840	0.53	cellular_component
+P59103	GO:0005634	0.53	cellular_component
+
+Method 2:
+
+P59103	GO:0048471	1.00	cellular_component
+P59103	GO:0008047	1.00	molecular_function
+P59103	GO:0005794	1.00	cellular_component
+P59103	GO:1900758	1.00	biological_process
+P59103	GO:0005739	1.00	cellular_component
+
+Method 3:
+
+P59103	GO:1900758	1.00	biological_process
+P59103	GO:0008047	1.00	molecular_function
+P59103	GO:0005739	1.00	cellular_component
+P59103	GO:0048471	1.00	cellular_component
+P59103	GO:0005794	1.00	cellular_component
+
+>Fasta >Q9Y5T4   >> Details:
+
+
+Method 1:
+
+Q9Y5T4	GO:0016021	0.67	cellular_component
+Q9Y5T4	GO:0005886	0.57	cellular_component
+Q9Y5T4	GO:0005737	0.57	cellular_component
+Q9Y5T4	GO:0005739	0.57	cellular_component
+Q9Y5T4	GO:0005634	0.57	cellular_component
+Q9Y5T4	GO:0005524	0.57	molecular_function
+Q9Y5T4	GO:0005840	0.56	cellular_component
+Q9Y5T4	GO:0006412	0.56	biological_process
+Q9Y5T4	GO:0003735	0.56	molecular_function
+Q9Y5T4	GO:0019843	0.56	molecular_function
+Q9Y5T4	GO:0046872	0.56	molecular_function
+
+Method 2:
+
+Q9Y5T4	GO:0005739	1.00	cellular_component
+Q9Y5T4	GO:0005576	0.99	cellular_component
+Q9Y5T4	GO:0005886	0.98	cellular_component
+Q9Y5T4	GO:0016021	0.97	cellular_component
+Q9Y5T4	GO:0005509	0.96	molecular_function
+Q9Y5T4	GO:0005634	0.95	cellular_component
+Q9Y5T4	GO:0005829	0.94	cellular_component
+Q9Y5T4	GO:0005737	0.93	cellular_component
+Q9Y5T4	GO:0007156	0.92	biological_process
+Q9Y5T4	GO:0005524	0.91	molecular_function
+Q9Y5T4	GO:0005887	0.90	cellular_component
+
+Method 3:
+
+Q9Y5T4	GO:0016021	1.00	cellular_component
+Q9Y5T4	GO:0005739	0.99	cellular_component
+
+>Fasta >Q5J8X5   >> Details:
+
+
+Method 1:
+
+Q5J8X5	GO:0016021	0.67	cellular_component
+Q5J8X5	GO:0005886	0.56	cellular_component
+Q5J8X5	GO:0005737	0.56	cellular_component
+Q5J8X5	GO:0005524	0.56	molecular_function
+Q5J8X5	GO:0046872	0.53	molecular_function
+Q5J8X5	GO:0003677	0.51	molecular_function
+Q5J8X5	GO:0006412	0.51	biological_process
+Q5J8X5	GO:0003735	0.50	molecular_function
+Q5J8X5	GO:0005634	0.47	cellular_component
+Q5J8X5	GO:0008270	0.47	molecular_function
+Q5J8X5	GO:0005576	0.47	cellular_component
+
+Method 2:
+
+Q5J8X5	GO:0016021	1.00	cellular_component
+
+Method 3:
+
+Q5J8X5	GO:0016021	1.00	cellular_component
+
+>Fasta >O14960   >> Details:
+
+
+Method 1:
+
+O14960	GO:0005576	0.63	cellular_component
+O14960	GO:0006935	0.63	biological_process
+O14960	GO:0005737	0.61	cellular_component
+O14960	GO:0030178	0.59	biological_process
+O14960	GO:0016021	0.56	cellular_component
+O14960	GO:0005886	0.56	cellular_component
+O14960	GO:0005524	0.56	molecular_function
+O14960	GO:0046872	0.56	molecular_function
+O14960	GO:0005525	0.55	molecular_function
+O14960	GO:0005615	0.54	cellular_component
+O14960	GO:0006412	0.54	biological_process
+
+Method 2:
+
+O14960	GO:0030178	1.00	biological_process
+O14960	GO:0006935	1.00	biological_process
+O14960	GO:0005576	0.99	cellular_component
+O14960	GO:0001501	0.98	biological_process
+O14960	GO:0005615	0.98	cellular_component
+O14960	GO:0005737	0.98	cellular_component
+O14960	GO:0030851	0.97	biological_process
+
+Method 3:
+
+O14960	GO:0006935	1.00	biological_process
+O14960	GO:0030178	1.00	biological_process
+O14960	GO:0005576	0.99	cellular_component
+O14960	GO:0005737	0.98	cellular_component
+O14960	GO:0005615	0.98	cellular_component
+O14960	GO:0001501	0.98	biological_process
+O14960	GO:0030851	0.97	biological_process
+
+>Fasta >Q6UXN7   >> Details:
+
+
+Method 1:
+
+Q6UXN7	GO:0016021	0.78	cellular_component
+Q6UXN7	GO:0005742	0.71	cellular_component
+Q6UXN7	GO:0006605	0.60	biological_process
+Q6UXN7	GO:0005737	0.58	cellular_component
+Q6UXN7	GO:0005524	0.58	molecular_function
+Q6UXN7	GO:0005634	0.58	cellular_component
+Q6UXN7	GO:0005886	0.57	cellular_component
+Q6UXN7	GO:0046872	0.57	molecular_function
+Q6UXN7	GO:0003677	0.57	molecular_function
+Q6UXN7	GO:0006351	0.57	biological_process
+Q6UXN7	GO:0003735	0.57	molecular_function
+
+Method 2:
+
+Q6UXN7	GO:0016021	1.00	cellular_component
+Q6UXN7	GO:0005524	0.99	molecular_function
+Q6UXN7	GO:0005737	0.99	cellular_component
+Q6UXN7	GO:0005634	0.98	cellular_component
+Q6UXN7	GO:0005739	0.97	cellular_component
+Q6UXN7	GO:0005886	0.96	cellular_component
+Q6UXN7	GO:0051082	0.96	molecular_function
+Q6UXN7	GO:0005742	0.95	cellular_component
+Q6UXN7	GO:0005829	0.95	cellular_component
+Q6UXN7	GO:0016887	0.94	molecular_function
+Q6UXN7	GO:0046872	0.93	molecular_function
+
+Method 3:
+
+Q6UXN7	GO:0005742	1.00	cellular_component
+Q6UXN7	GO:0016021	0.99	cellular_component
+Q6UXN7	GO:0006605	0.98	biological_process
+Q6UXN7	GO:0015450	0.97	molecular_function
+Q6UXN7	GO:0006626	0.97	biological_process
+Q6UXN7	GO:0051082	0.96	molecular_function
+Q6UXN7	GO:0030150	0.95	biological_process
+Q6UXN7	GO:0070096	0.95	biological_process
+Q6UXN7	GO:0030943	0.94	molecular_function
+Q6UXN7	GO:0031307	0.94	cellular_component
+Q6UXN7	GO:0016031	0.94	biological_process
+
+>Fasta >P0DMQ5   >> Details:
+
+
+Method 1:
+
+P0DMQ5	GO:0016021	0.58	cellular_component
+P0DMQ5	GO:0005886	0.56	cellular_component
+P0DMQ5	GO:0005524	0.56	molecular_function
+P0DMQ5	GO:0006412	0.56	biological_process
+P0DMQ5	GO:0005634	0.56	cellular_component
+P0DMQ5	GO:0003735	0.56	molecular_function
+P0DMQ5	GO:0005737	0.56	cellular_component
+P0DMQ5	GO:0005840	0.56	cellular_component
+P0DMQ5	GO:0046872	0.56	molecular_function
+P0DMQ5	GO:0006351	0.56	biological_process
+P0DMQ5	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+P0DMQ5	GO:0016021	1.00	cellular_component
+
+Method 3:
+
+P0DMQ5	GO:0016021	1.00	cellular_component
+
+>Fasta >Q9Y534   >> Details:
+
+
+Method 1:
+
+Q9Y534	GO:0005634	0.68	cellular_component
+Q9Y534	GO:0005737	0.68	cellular_component
+Q9Y534	GO:0003677	0.68	molecular_function
+Q9Y534	GO:0006355	0.68	biological_process
+Q9Y534	GO:0003723	0.68	molecular_function
+Q9Y534	GO:0006397	0.58	biological_process
+Q9Y534	GO:0005524	0.56	molecular_function
+Q9Y534	GO:0006412	0.56	biological_process
+Q9Y534	GO:0003735	0.56	molecular_function
+Q9Y534	GO:0005840	0.55	cellular_component
+Q9Y534	GO:0006351	0.55	biological_process
+
+Method 2:
+
+Q9Y534	GO:0005634	1.00	cellular_component
+Q9Y534	GO:0003677	0.99	molecular_function
+Q9Y534	GO:0005737	0.99	cellular_component
+Q9Y534	GO:0008270	0.98	molecular_function
+Q9Y534	GO:0006351	0.97	biological_process
+Q9Y534	GO:0045944	0.96	biological_process
+Q9Y534	GO:0006355	0.96	biological_process
+Q9Y534	GO:0043565	0.95	molecular_function
+Q9Y534	GO:0003700	0.94	molecular_function
+Q9Y534	GO:0003723	0.93	molecular_function
+Q9Y534	GO:0000122	0.92	biological_process
+
+Method 3:
+
+Q9Y534	GO:0005737	1.00	cellular_component
+Q9Y534	GO:0003677	1.00	molecular_function
+Q9Y534	GO:0006355	1.00	biological_process
+Q9Y534	GO:0003723	1.00	molecular_function
+Q9Y534	GO:0005634	1.00	cellular_component
+Q9Y534	GO:0006397	0.99	biological_process
+Q9Y534	GO:0006398	0.98	biological_process
+
+>Fasta >Q04837   >> Details:
+
+
+Method 1:
+
+Q04837	GO:0006260	0.84	biological_process
+Q04837	GO:0003697	0.84	molecular_function
+Q04837	GO:0003682	0.84	molecular_function
+Q04837	GO:0042645	0.84	cellular_component
+Q04837	GO:0051096	0.72	biological_process
+Q04837	GO:0070584	0.66	biological_process
+Q04837	GO:0005524	0.56	molecular_function
+Q04837	GO:0005737	0.56	cellular_component
+Q04837	GO:0016021	0.56	cellular_component
+Q04837	GO:0006412	0.56	biological_process
+Q04837	GO:0005886	0.56	cellular_component
+
+Method 2:
+
+Q04837	GO:0003697	1.00	molecular_function
+Q04837	GO:0006260	1.00	biological_process
+Q04837	GO:0042645	1.00	cellular_component
+Q04837	GO:0003682	1.00	molecular_function
+Q04837	GO:0051096	0.99	biological_process
+Q04837	GO:0070584	0.99	biological_process
+Q04837	GO:0005739	0.98	cellular_component
+
+Method 3:
+
+Q04837	GO:0003697	1.00	molecular_function
+Q04837	GO:0006260	1.00	biological_process
+Q04837	GO:0042645	0.99	cellular_component
+Q04837	GO:0003682	0.99	molecular_function
+Q04837	GO:0051096	0.98	biological_process
+Q04837	GO:0070584	0.98	biological_process
+Q04837	GO:0005739	0.97	cellular_component
+Q04837	GO:0006281	0.96	biological_process
+
+>Fasta >Q5T1J5   >> Details:
+
+
+Method 1:
+
+Q5T1J5	GO:0005524	0.62	molecular_function
+Q5T1J5	GO:0005739	0.59	cellular_component
+Q5T1J5	GO:0005737	0.57	cellular_component
+Q5T1J5	GO:0005886	0.57	cellular_component
+Q5T1J5	GO:0005634	0.57	cellular_component
+Q5T1J5	GO:0003677	0.56	molecular_function
+Q5T1J5	GO:0016021	0.56	cellular_component
+Q5T1J5	GO:0006412	0.56	biological_process
+Q5T1J5	GO:0003735	0.56	molecular_function
+Q5T1J5	GO:0046872	0.56	molecular_function
+Q5T1J5	GO:0006351	0.56	biological_process
+
+Method 2:
+
+Q5T1J5	GO:0005886	1.00	cellular_component
+Q5T1J5	GO:0005737	1.00	cellular_component
+Q5T1J5	GO:0005829	0.99	cellular_component
+Q5T1J5	GO:0005524	0.98	molecular_function
+Q5T1J5	GO:0005634	0.97	cellular_component
+Q5T1J5	GO:0005543	0.96	molecular_function
+Q5T1J5	GO:0005509	0.96	molecular_function
+Q5T1J5	GO:0007411	0.95	biological_process
+Q5T1J5	GO:0005887	0.94	cellular_component
+Q5T1J5	GO:0007155	0.93	biological_process
+Q5T1J5	GO:0007264	0.92	biological_process
+
+Method 3:
+
+Q5T1J5	GO:0004674	1.00	molecular_function
+Q5T1J5	GO:0035023	1.00	biological_process
+Q5T1J5	GO:0005543	1.00	molecular_function
+Q5T1J5	GO:0005089	1.00	molecular_function
+Q5T1J5	GO:0005524	1.00	molecular_function
+Q5T1J5	GO:0005085	0.99	molecular_function
+Q5T1J5	GO:0097190	0.99	biological_process
+Q5T1J5	GO:0005829	0.99	cellular_component
+Q5T1J5	GO:0048011	0.99	biological_process
+Q5T1J5	GO:0043065	0.99	biological_process
+Q5T1J5	GO:0051056	0.99	biological_process
+
+>Fasta >Q9Y530   >> Details:
+
+
+Method 1:
+
+Q9Y530	GO:0042278	0.68	biological_process
+Q9Y530	GO:0019213	0.68	molecular_function
+Q9Y530	GO:0001883	0.68	molecular_function
+Q9Y530	GO:0005524	0.57	molecular_function
+Q9Y530	GO:0005737	0.57	cellular_component
+Q9Y530	GO:0005886	0.57	cellular_component
+Q9Y530	GO:0006412	0.56	biological_process
+Q9Y530	GO:0003735	0.56	molecular_function
+Q9Y530	GO:0016021	0.56	cellular_component
+Q9Y530	GO:0005840	0.56	cellular_component
+Q9Y530	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+Q9Y530	GO:0005829	1.00	cellular_component
+Q9Y530	GO:0005654	0.99	cellular_component
+Q9Y530	GO:0005634	0.98	cellular_component
+Q9Y530	GO:0001883	0.97	molecular_function
+Q9Y530	GO:0019213	0.97	molecular_function
+Q9Y530	GO:0042278	0.97	biological_process
+Q9Y530	GO:0043066	0.96	biological_process
+Q9Y530	GO:0005524	0.96	molecular_function
+Q9Y530	GO:0005737	0.95	cellular_component
+Q9Y530	GO:0006915	0.94	biological_process
+Q9Y530	GO:0000082	0.93	biological_process
+
+Method 3:
+
+Q9Y530	GO:0001883	1.00	molecular_function
+Q9Y530	GO:0019213	1.00	molecular_function
+Q9Y530	GO:0042278	1.00	biological_process
+
+>Fasta >Q5BIV9   >> Details:
+
+
+Method 1:
+
+Q5BIV9	GO:0005886	0.58	cellular_component
+Q5BIV9	GO:0031225	0.58	cellular_component
+Q5BIV9	GO:0005737	0.56	cellular_component
+Q5BIV9	GO:0016021	0.56	cellular_component
+Q5BIV9	GO:0000287	0.56	molecular_function
+Q5BIV9	GO:0005634	0.56	cellular_component
+Q5BIV9	GO:0006412	0.56	biological_process
+Q5BIV9	GO:0046872	0.56	molecular_function
+Q5BIV9	GO:0005524	0.56	molecular_function
+Q5BIV9	GO:0003735	0.56	molecular_function
+Q5BIV9	GO:0005840	0.56	cellular_component
+
+Method 2:
+
+Q5BIV9	GO:0031225	1.00	cellular_component
+Q5BIV9	GO:0005886	1.00	cellular_component
+
+Method 3:
+
+Q5BIV9	GO:0005886	1.00	cellular_component
+Q5BIV9	GO:0031225	1.00	cellular_component
+
+>Fasta >Q9UBR5   >> Details:
+
+
+Method 1:
+
+Q9UBR5	GO:0016021	0.67	cellular_component
+Q9UBR5	GO:0005615	0.60	cellular_component
+Q9UBR5	GO:0005576	0.58	cellular_component
+Q9UBR5	GO:0008283	0.57	biological_process
+Q9UBR5	GO:0005524	0.56	molecular_function
+Q9UBR5	GO:0005737	0.56	cellular_component
+Q9UBR5	GO:0005886	0.56	cellular_component
+Q9UBR5	GO:0046872	0.56	molecular_function
+Q9UBR5	GO:0006412	0.56	biological_process
+Q9UBR5	GO:0003735	0.56	molecular_function
+Q9UBR5	GO:0048246	0.56	biological_process
+
+Method 2:
+
+Q9UBR5	GO:0048247	1.00	biological_process
+Q9UBR5	GO:0008283	1.00	biological_process
+Q9UBR5	GO:0030593	1.00	biological_process
+Q9UBR5	GO:0005615	1.00	cellular_component
+Q9UBR5	GO:0032940	1.00	biological_process
+Q9UBR5	GO:0048246	1.00	biological_process
+Q9UBR5	GO:0016021	1.00	cellular_component
+Q9UBR5	GO:0008009	0.99	molecular_function
+Q9UBR5	GO:0005576	0.99	cellular_component
+
+Method 3:
+
+Q9UBR5	GO:0048246	1.00	biological_process
+Q9UBR5	GO:0048247	1.00	biological_process
+Q9UBR5	GO:0030593	1.00	biological_process
+Q9UBR5	GO:0032940	1.00	biological_process
+Q9UBR5	GO:0005615	1.00	cellular_component
+Q9UBR5	GO:0008283	1.00	biological_process
+Q9UBR5	GO:0016021	1.00	cellular_component
+Q9UBR5	GO:0005576	0.99	cellular_component
+Q9UBR5	GO:0008009	0.99	molecular_function
+
+>Fasta >P46776   >> Details:
+
+
+Method 1:
+
+P46776	GO:0003735	0.97	molecular_function
+P46776	GO:0006412	0.96	biological_process
+P46776	GO:0005840	0.91	cellular_component
+P46776	GO:0019843	0.79	molecular_function
+P46776	GO:0022625	0.72	cellular_component
+P46776	GO:0015934	0.71	cellular_component
+P46776	GO:0003723	0.62	molecular_function
+P46776	GO:0005634	0.59	cellular_component
+P46776	GO:0005737	0.58	cellular_component
+P46776	GO:0005524	0.58	molecular_function
+P46776	GO:0016021	0.58	cellular_component
+
+Method 2:
+
+P46776	GO:0003735	1.00	molecular_function
+P46776	GO:0006412	0.99	biological_process
+P46776	GO:0022625	0.98	cellular_component
+P46776	GO:0000184	0.97	biological_process
+P46776	GO:0005730	0.97	cellular_component
+P46776	GO:0006413	0.97	biological_process
+P46776	GO:0006415	0.97	biological_process
+P46776	GO:0005634	0.97	cellular_component
+P46776	GO:0006414	0.97	biological_process
+P46776	GO:0019083	0.97	biological_process
+P46776	GO:0003723	0.97	molecular_function
+
+Method 3:
+
+P46776	GO:0003735	1.00	molecular_function
+P46776	GO:0006412	0.99	biological_process
+P46776	GO:0005840	0.98	cellular_component
+P46776	GO:0015934	0.97	cellular_component
+P46776	GO:0019843	0.97	molecular_function
+P46776	GO:0022625	0.96	cellular_component
+P46776	GO:0003723	0.95	molecular_function
+P46776	GO:0009506	0.94	cellular_component
+P46776	GO:0002181	0.93	biological_process
+P46776	GO:0005730	0.92	cellular_component
+P46776	GO:0006614	0.91	biological_process
+
+>Fasta >Q96NZ9   >> Details:
+
+
+Method 1:
+
+Q96NZ9	GO:0005576	0.67	cellular_component
+Q96NZ9	GO:0005737	0.56	cellular_component
+Q96NZ9	GO:0005524	0.56	molecular_function
+Q96NZ9	GO:0016021	0.56	cellular_component
+Q96NZ9	GO:0005886	0.56	cellular_component
+Q96NZ9	GO:0006412	0.56	biological_process
+Q96NZ9	GO:0003735	0.56	molecular_function
+Q96NZ9	GO:0005840	0.56	cellular_component
+Q96NZ9	GO:0046872	0.55	molecular_function
+Q96NZ9	GO:0005634	0.54	cellular_component
+Q96NZ9	GO:0003677	0.54	molecular_function
+
+Method 2:
+
+Q96NZ9	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+Q96NZ9	GO:0005576	1.00	cellular_component
+
+>Fasta >P09681   >> Details:
+
+
+Method 1:
+
+P09681	GO:0005576	0.62	cellular_component
+P09681	GO:0008344	0.62	biological_process
+P09681	GO:0007613	0.62	biological_process
+P09681	GO:0019233	0.62	biological_process
+P09681	GO:0031018	0.62	biological_process
+P09681	GO:0035640	0.62	biological_process
+P09681	GO:0005737	0.59	cellular_component
+P09681	GO:0042493	0.58	biological_process
+P09681	GO:0043025	0.58	cellular_component
+P09681	GO:0032024	0.58	biological_process
+P09681	GO:0007565	0.57	biological_process
+
+Method 2:
+
+P09681	GO:0048678	1.00	biological_process
+P09681	GO:0042493	1.00	biological_process
+P09681	GO:0007613	1.00	biological_process
+P09681	GO:0007565	1.00	biological_process
+P09681	GO:0008344	1.00	biological_process
+P09681	GO:0031018	1.00	biological_process
+P09681	GO:0014070	1.00	biological_process
+P09681	GO:0010828	1.00	biological_process
+P09681	GO:0043200	1.00	biological_process
+P09681	GO:0043025	1.00	cellular_component
+P09681	GO:0019233	1.00	biological_process
+
+Method 3:
+
+P09681	GO:0070094	1.00	biological_process
+P09681	GO:0070328	1.00	biological_process
+P09681	GO:0042493	1.00	biological_process
+P09681	GO:0055123	1.00	biological_process
+P09681	GO:0043200	1.00	biological_process
+P09681	GO:0032024	1.00	biological_process
+P09681	GO:0042594	1.00	biological_process
+P09681	GO:0009749	1.00	biological_process
+P09681	GO:0043950	1.00	biological_process
+P09681	GO:0031018	1.00	biological_process
+P09681	GO:0014070	1.00	biological_process
+
+>Fasta >P60660   >> Details:
+
+
+Method 1:
+
+P60660	GO:0005509	1.00	molecular_function
+P60660	GO:0005886	0.95	cellular_component
+P60660	GO:0016459	0.95	cellular_component
+P60660	GO:0005524	0.93	molecular_function
+P60660	GO:0005829	0.92	cellular_component
+P60660	GO:0005737	0.91	cellular_component
+P60660	GO:0005634	0.89	cellular_component
+P60660	GO:0008307	0.84	molecular_function
+P60660	GO:0030049	0.78	biological_process
+P60660	GO:0007519	0.75	biological_process
+P60660	GO:0004674	0.75	molecular_function
+
+Method 2:
+
+P60660	GO:0005509	1.00	molecular_function
+P60660	GO:0005829	0.99	cellular_component
+P60660	GO:0005886	0.98	cellular_component
+P60660	GO:0005634	0.97	cellular_component
+P60660	GO:0005524	0.97	molecular_function
+P60660	GO:0005737	0.96	cellular_component
+P60660	GO:0016459	0.95	cellular_component
+P60660	GO:0004674	0.94	molecular_function
+P60660	GO:0030018	0.93	cellular_component
+P60660	GO:0008307	0.92	molecular_function
+P60660	GO:0051301	0.91	biological_process
+
+Method 3:
+
+P60660	GO:0005509	1.00	molecular_function
+P60660	GO:0005886	0.99	cellular_component
+P60660	GO:0016459	0.98	cellular_component
+P60660	GO:0005524	0.97	molecular_function
+P60660	GO:0005829	0.96	cellular_component
+P60660	GO:0005737	0.95	cellular_component
+P60660	GO:0005634	0.94	cellular_component
+P60660	GO:0004674	0.93	molecular_function
+P60660	GO:0030018	0.92	cellular_component
+P60660	GO:0008307	0.91	molecular_function
+P60660	GO:0016020	0.90	cellular_component
+
+>Fasta >A6NF36   >> Details:
+
+
+Method 1:
+
+A6NF36	GO:0005737	0.56	cellular_component
+A6NF36	GO:0005524	0.56	molecular_function
+A6NF36	GO:0016021	0.56	cellular_component
+A6NF36	GO:0005886	0.56	cellular_component
+A6NF36	GO:0006412	0.56	biological_process
+A6NF36	GO:0003735	0.56	molecular_function
+A6NF36	GO:0003677	0.56	molecular_function
+A6NF36	GO:0046872	0.56	molecular_function
+A6NF36	GO:0005840	0.56	cellular_component
+A6NF36	GO:0008585	0.56	biological_process
+A6NF36	GO:0005634	0.55	cellular_component
+
+Method 2:
+
+A6NF36	GO:0008585	1.00	biological_process
+
+Method 3:
+
+A6NF36	GO:0008585	1.00	biological_process
+
+>Fasta >P60568   >> Details:
+
+
+Method 1:
+
+P60568	GO:0005615	0.95	cellular_component
+P60568	GO:0006955	0.95	biological_process
+P60568	GO:0045944	0.76	biological_process
+P60568	GO:0030890	0.75	biological_process
+P60568	GO:0050728	0.75	biological_process
+P60568	GO:0042523	0.75	biological_process
+P60568	GO:0051024	0.75	biological_process
+P60568	GO:0032740	0.75	biological_process
+P60568	GO:0048304	0.75	biological_process
+P60568	GO:0046013	0.75	biological_process
+P60568	GO:0042104	0.75	biological_process
+
+Method 2:
+
+P60568	GO:0045944	1.00	biological_process
+P60568	GO:0005615	1.00	cellular_component
+P60568	GO:0005634	0.99	cellular_component
+P60568	GO:0005829	0.99	cellular_component
+P60568	GO:0005737	0.98	cellular_component
+P60568	GO:0006955	0.98	biological_process
+P60568	GO:0005524	0.97	molecular_function
+P60568	GO:0005654	0.97	cellular_component
+P60568	GO:0006351	0.96	biological_process
+P60568	GO:0005886	0.95	cellular_component
+P60568	GO:0045087	0.94	biological_process
+
+Method 3:
+
+P60568	GO:0006955	1.00	biological_process
+P60568	GO:0005615	1.00	cellular_component
+P60568	GO:0050672	0.99	biological_process
+P60568	GO:0050728	0.99	biological_process
+P60568	GO:0046013	0.99	biological_process
+P60568	GO:0048304	0.99	biological_process
+P60568	GO:0045944	0.99	biological_process
+P60568	GO:0002903	0.99	biological_process
+P60568	GO:0042523	0.99	biological_process
+P60568	GO:0032740	0.99	biological_process
+P60568	GO:0030890	0.99	biological_process
+
+>Fasta >O15444   >> Details:
+
+
+Method 1:
+
+O15444	GO:0005615	0.69	cellular_component
+O15444	GO:0006935	0.66	biological_process
+O15444	GO:0006954	0.65	biological_process
+O15444	GO:0006955	0.65	biological_process
+O15444	GO:0050900	0.64	biological_process
+O15444	GO:0005576	0.60	cellular_component
+O15444	GO:0005737	0.56	cellular_component
+O15444	GO:0005524	0.56	molecular_function
+O15444	GO:0016021	0.56	cellular_component
+O15444	GO:0005886	0.56	cellular_component
+O15444	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+O15444	GO:0006954	1.00	biological_process
+O15444	GO:0005615	1.00	cellular_component
+O15444	GO:0006935	0.99	biological_process
+O15444	GO:0006955	0.99	biological_process
+O15444	GO:0050900	0.98	biological_process
+O15444	GO:0008009	0.97	molecular_function
+O15444	GO:0007186	0.96	biological_process
+O15444	GO:0005576	0.96	cellular_component
+O15444	GO:0005179	0.95	molecular_function
+O15444	GO:0031735	0.95	molecular_function
+O15444	GO:0005886	0.94	cellular_component
+
+Method 3:
+
+O15444	GO:0006935	1.00	biological_process
+O15444	GO:0006955	1.00	biological_process
+O15444	GO:0006954	1.00	biological_process
+O15444	GO:0005615	1.00	cellular_component
+O15444	GO:0050900	1.00	biological_process
+O15444	GO:0008009	0.99	molecular_function
+O15444	GO:0031735	0.98	molecular_function
+O15444	GO:0007186	0.98	biological_process
+O15444	GO:0005576	0.98	cellular_component
+O15444	GO:0005179	0.98	molecular_function
+
+>Fasta >Q8WWZ1   >> Details:
+
+
+Method 1:
+
+Q8WWZ1	GO:0005615	0.60	cellular_component
+Q8WWZ1	GO:0005737	0.56	cellular_component
+Q8WWZ1	GO:0005524	0.56	molecular_function
+Q8WWZ1	GO:0006412	0.56	biological_process
+Q8WWZ1	GO:0003735	0.56	molecular_function
+Q8WWZ1	GO:0016021	0.56	cellular_component
+Q8WWZ1	GO:0005886	0.56	cellular_component
+Q8WWZ1	GO:0046872	0.55	molecular_function
+Q8WWZ1	GO:0005840	0.55	cellular_component
+Q8WWZ1	GO:0005634	0.55	cellular_component
+Q8WWZ1	GO:0019843	0.55	molecular_function
+
+Method 2:
+
+Q8WWZ1	GO:0005615	1.00	cellular_component
+
+Method 3:
+
+Q8WWZ1	GO:0005615	1.00	cellular_component
+
+>Fasta >Q9BVM4   >> Details:
+
+
+Method 1:
+
+Q9BVM4	GO:0003839	0.79	molecular_function
+Q9BVM4	GO:0042219	0.79	biological_process
+Q9BVM4	GO:0005737	0.57	cellular_component
+Q9BVM4	GO:0005886	0.57	cellular_component
+Q9BVM4	GO:0016021	0.56	cellular_component
+Q9BVM4	GO:0005524	0.56	molecular_function
+Q9BVM4	GO:0006412	0.56	biological_process
+Q9BVM4	GO:0003735	0.56	molecular_function
+Q9BVM4	GO:0046872	0.54	molecular_function
+Q9BVM4	GO:0005634	0.54	cellular_component
+Q9BVM4	GO:0003677	0.54	molecular_function
+
+Method 2:
+
+Q9BVM4	GO:0003839	1.00	molecular_function
+Q9BVM4	GO:0042219	0.99	biological_process
+Q9BVM4	GO:0016746	0.98	molecular_function
+Q9BVM4	GO:0005634	0.97	cellular_component
+Q9BVM4	GO:0005737	0.96	cellular_component
+Q9BVM4	GO:0005886	0.95	cellular_component
+Q9BVM4	GO:0005829	0.94	cellular_component
+Q9BVM4	GO:0007165	0.93	biological_process
+Q9BVM4	GO:0007268	0.93	biological_process
+Q9BVM4	GO:0007399	0.93	biological_process
+Q9BVM4	GO:0005543	0.93	molecular_function
+
+Method 3:
+
+Q9BVM4	GO:0042219	1.00	biological_process
+Q9BVM4	GO:0003839	1.00	molecular_function
+Q9BVM4	GO:0016746	0.99	molecular_function
+Q9BVM4	GO:0008307	0.98	molecular_function
+Q9BVM4	GO:0007507	0.98	biological_process
+Q9BVM4	GO:0080167	0.97	biological_process
+
+>Fasta >C9JUS6   >> Details:
+
+
+Method 1:
+
+C9JUS6	GO:0005576	0.64	cellular_component
+C9JUS6	GO:0005886	0.56	cellular_component
+C9JUS6	GO:0016021	0.56	cellular_component
+C9JUS6	GO:0005737	0.56	cellular_component
+C9JUS6	GO:0005524	0.56	molecular_function
+C9JUS6	GO:0046872	0.56	molecular_function
+C9JUS6	GO:0000287	0.56	molecular_function
+C9JUS6	GO:0006412	0.56	biological_process
+C9JUS6	GO:0005634	0.56	cellular_component
+C9JUS6	GO:0003735	0.56	molecular_function
+C9JUS6	GO:0003677	0.55	molecular_function
+
+Method 2:
+
+C9JUS6	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+C9JUS6	GO:0005576	1.00	cellular_component
+
+>Fasta >P78537   >> Details:
+
+
+Method 1:
+
+P78537	GO:0008089	0.70	biological_process
+P78537	GO:0048490	0.70	biological_process
+P78537	GO:0031175	0.70	biological_process
+P78537	GO:0005759	0.69	cellular_component
+P78537	GO:0005758	0.69	cellular_component
+P78537	GO:0009060	0.69	biological_process
+P78537	GO:0018394	0.69	biological_process
+P78537	GO:0031083	0.69	cellular_component
+P78537	GO:0005737	0.58	cellular_component
+P78537	GO:0005524	0.58	molecular_function
+P78537	GO:0005886	0.58	cellular_component
+
+Method 2:
+
+P78537	GO:0005634	1.00	cellular_component
+P78537	GO:0005829	1.00	cellular_component
+P78537	GO:0005737	0.99	cellular_component
+P78537	GO:0005524	0.98	molecular_function
+P78537	GO:0005654	0.97	cellular_component
+P78537	GO:0005886	0.96	cellular_component
+P78537	GO:0006351	0.96	biological_process
+P78537	GO:0008270	0.95	molecular_function
+P78537	GO:0045944	0.95	biological_process
+P78537	GO:0003677	0.94	molecular_function
+P78537	GO:0000122	0.93	biological_process
+
+Method 3:
+
+P78537	GO:0008089	1.00	biological_process
+P78537	GO:0005759	1.00	cellular_component
+P78537	GO:0018394	1.00	biological_process
+P78537	GO:0048490	1.00	biological_process
+P78537	GO:0009060	1.00	biological_process
+P78537	GO:0005758	1.00	cellular_component
+P78537	GO:0031175	1.00	biological_process
+P78537	GO:0031083	0.99	cellular_component
+P78537	GO:0005765	0.98	cellular_component
+P78537	GO:0006892	0.98	biological_process
+P78537	GO:0016044	0.98	biological_process
+
+>Fasta >Q6ZRU5   >> Details:
+
+
+Method 1:
+
+Q6ZRU5	GO:0005840	0.56	cellular_component
+Q6ZRU5	GO:0003735	0.56	molecular_function
+Q6ZRU5	GO:0006412	0.56	biological_process
+Q6ZRU5	GO:0070180	0.56	molecular_function
+Q6ZRU5	GO:0005737	0.56	cellular_component
+Q6ZRU5	GO:0019843	0.56	molecular_function
+Q6ZRU5	GO:0015935	0.56	cellular_component
+Q6ZRU5	GO:0000049	0.56	molecular_function
+Q6ZRU5	GO:0005576	0.55	cellular_component
+Q6ZRU5	GO:0016021	0.54	cellular_component
+Q6ZRU5	GO:0005524	0.54	molecular_function
+
+Method 2:
+
+Q6ZRU5	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+Q6ZRU5	GO:0005576	1.00	cellular_component
+
+>Fasta >Q0D2K3   >> Details:
+
+
+Method 1:
+
+Q0D2K3	GO:0006351	0.57	biological_process
+Q0D2K3	GO:0005634	0.57	cellular_component
+Q0D2K3	GO:0005840	0.56	cellular_component
+Q0D2K3	GO:0046872	0.56	molecular_function
+Q0D2K3	GO:0005737	0.56	cellular_component
+Q0D2K3	GO:0006412	0.56	biological_process
+Q0D2K3	GO:0016021	0.56	cellular_component
+Q0D2K3	GO:0005524	0.56	molecular_function
+Q0D2K3	GO:0005886	0.56	cellular_component
+Q0D2K3	GO:0003735	0.56	molecular_function
+Q0D2K3	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+Q0D2K3	GO:0001757	1.00	biological_process
+Q0D2K3	GO:0005634	1.00	cellular_component
+Q0D2K3	GO:0045892	1.00	biological_process
+Q0D2K3	GO:0032525	1.00	biological_process
+Q0D2K3	GO:0006351	1.00	biological_process
+
+Method 3:
+
+Q0D2K3	GO:0045892	1.00	biological_process
+Q0D2K3	GO:0032525	1.00	biological_process
+Q0D2K3	GO:0006351	1.00	biological_process
+Q0D2K3	GO:0001757	1.00	biological_process
+Q0D2K3	GO:0005634	1.00	cellular_component
+
+>Fasta >Q9NRP0   >> Details:
+
+
+Method 1:
+
+Q9NRP0	GO:0016021	0.87	cellular_component
+Q9NRP0	GO:0005886	0.57	cellular_component
+Q9NRP0	GO:0005737	0.56	cellular_component
+Q9NRP0	GO:0005524	0.56	molecular_function
+Q9NRP0	GO:0046872	0.55	molecular_function
+Q9NRP0	GO:0006412	0.55	biological_process
+Q9NRP0	GO:0003735	0.55	molecular_function
+Q9NRP0	GO:0008250	0.54	cellular_component
+Q9NRP0	GO:0019843	0.54	molecular_function
+Q9NRP0	GO:0003677	0.51	molecular_function
+Q9NRP0	GO:0005840	0.51	cellular_component
+
+Method 2:
+
+Q9NRP0	GO:0016021	1.00	cellular_component
+Q9NRP0	GO:0005509	0.99	molecular_function
+Q9NRP0	GO:0005829	0.98	cellular_component
+Q9NRP0	GO:0005886	0.97	cellular_component
+Q9NRP0	GO:0005887	0.97	cellular_component
+Q9NRP0	GO:0007156	0.96	biological_process
+Q9NRP0	GO:0007155	0.95	biological_process
+Q9NRP0	GO:0007399	0.94	biological_process
+Q9NRP0	GO:0005634	0.94	cellular_component
+Q9NRP0	GO:0005576	0.94	cellular_component
+Q9NRP0	GO:0008250	0.94	cellular_component
+
+Method 3:
+
+Q9NRP0	GO:0016021	1.00	cellular_component
+Q9NRP0	GO:0008250	0.99	cellular_component
+Q9NRP0	GO:0018279	0.99	biological_process
+
+>Fasta >O60896   >> Details:
+
+
+Method 1:
+
+O60896	GO:0006886	0.69	biological_process
+O60896	GO:0008565	0.69	molecular_function
+O60896	GO:0008277	0.68	biological_process
+O60896	GO:0016021	0.68	cellular_component
+O60896	GO:0009986	0.67	cellular_component
+O60896	GO:0005764	0.66	cellular_component
+O60896	GO:0045892	0.66	biological_process
+O60896	GO:0005886	0.65	cellular_component
+O60896	GO:0015026	0.65	molecular_function
+O60896	GO:0006816	0.65	biological_process
+O60896	GO:0043235	0.65	cellular_component
+
+Method 2:
+
+O60896	GO:0008565	1.00	molecular_function
+O60896	GO:0008277	1.00	biological_process
+O60896	GO:0006886	1.00	biological_process
+O60896	GO:0005764	0.99	cellular_component
+O60896	GO:0043235	0.99	cellular_component
+O60896	GO:0007186	0.99	biological_process
+O60896	GO:0031623	0.99	biological_process
+O60896	GO:0001921	0.99	biological_process
+O60896	GO:0006816	0.99	biological_process
+O60896	GO:0072659	0.99	biological_process
+O60896	GO:0045892	0.99	biological_process
+
+Method 3:
+
+O60896	GO:0008565	1.00	molecular_function
+O60896	GO:0006886	1.00	biological_process
+O60896	GO:0008277	1.00	biological_process
+O60896	GO:0015026	0.99	molecular_function
+O60896	GO:0045892	0.99	biological_process
+O60896	GO:0007186	0.99	biological_process
+O60896	GO:0072659	0.99	biological_process
+O60896	GO:0031623	0.99	biological_process
+O60896	GO:0043235	0.99	cellular_component
+O60896	GO:0009986	0.99	cellular_component
+O60896	GO:0005764	0.99	cellular_component
+
+>Fasta >P05112   >> Details:
+
+
+Method 1:
+
+P05112	GO:0005615	0.94	cellular_component
+P05112	GO:0042113	0.94	biological_process
+P05112	GO:0006955	0.89	biological_process
+P05112	GO:0045944	0.81	biological_process
+P05112	GO:0030890	0.81	biological_process
+P05112	GO:0048295	0.81	biological_process
+P05112	GO:0048304	0.81	biological_process
+P05112	GO:0045348	0.81	biological_process
+P05112	GO:0045671	0.81	biological_process
+P05112	GO:0043066	0.80	biological_process
+P05112	GO:0045892	0.74	biological_process
+
+Method 2:
+
+P05112	GO:0005615	1.00	cellular_component
+P05112	GO:0042113	0.99	biological_process
+P05112	GO:0006955	0.98	biological_process
+P05112	GO:0045944	0.97	biological_process
+P05112	GO:0043066	0.96	biological_process
+P05112	GO:0030890	0.95	biological_process
+P05112	GO:0045671	0.94	biological_process
+P05112	GO:0048304	0.94	biological_process
+P05112	GO:0048295	0.93	biological_process
+P05112	GO:0045348	0.93	biological_process
+P05112	GO:0005829	0.92	cellular_component
+
+Method 3:
+
+P05112	GO:0005615	1.00	cellular_component
+P05112	GO:0042113	0.99	biological_process
+P05112	GO:0006955	0.98	biological_process
+P05112	GO:0048295	0.97	biological_process
+P05112	GO:0045348	0.97	biological_process
+P05112	GO:0048304	0.97	biological_process
+P05112	GO:0045944	0.97	biological_process
+P05112	GO:0045671	0.97	biological_process
+P05112	GO:0030890	0.97	biological_process
+P05112	GO:0043066	0.96	biological_process
+P05112	GO:0009897	0.95	cellular_component
+
+>Fasta >Q9H8M9   >> Details:
+
+
+Method 1:
+
+Q9H8M9	GO:0016021	0.75	cellular_component
+Q9H8M9	GO:0005886	0.69	cellular_component
+Q9H8M9	GO:0005789	0.65	cellular_component
+Q9H8M9	GO:0006915	0.64	biological_process
+Q9H8M9	GO:0006914	0.61	biological_process
+Q9H8M9	GO:0005765	0.61	cellular_component
+Q9H8M9	GO:0005524	0.56	molecular_function
+Q9H8M9	GO:0005737	0.56	cellular_component
+Q9H8M9	GO:0046872	0.56	molecular_function
+Q9H8M9	GO:0003677	0.56	molecular_function
+Q9H8M9	GO:0005634	0.56	cellular_component
+
+Method 2:
+
+Q9H8M9	GO:0016021	1.00	cellular_component
+Q9H8M9	GO:0005886	0.99	cellular_component
+Q9H8M9	GO:0006915	0.98	biological_process
+Q9H8M9	GO:0005765	0.97	cellular_component
+Q9H8M9	GO:0006914	0.97	biological_process
+Q9H8M9	GO:0005789	0.97	cellular_component
+Q9H8M9	GO:0030246	0.96	molecular_function
+Q9H8M9	GO:0043231	0.95	cellular_component
+Q9H8M9	GO:0005829	0.94	cellular_component
+Q9H8M9	GO:0005634	0.93	cellular_component
+Q9H8M9	GO:0005654	0.93	cellular_component
+
+Method 3:
+
+Q9H8M9	GO:0016021	1.00	cellular_component
+Q9H8M9	GO:0005886	0.99	cellular_component
+Q9H8M9	GO:0006914	0.98	biological_process
+Q9H8M9	GO:0005765	0.98	cellular_component
+Q9H8M9	GO:0006915	0.98	biological_process
+Q9H8M9	GO:0005789	0.98	cellular_component
+Q9H8M9	GO:0030246	0.97	molecular_function
+Q9H8M9	GO:0043231	0.96	cellular_component
+
+>Fasta >Q13021   >> Details:
+
+
+Method 1:
+
+Q13021	GO:0005886	0.56	cellular_component
+Q13021	GO:0016021	0.56	cellular_component
+Q13021	GO:0005737	0.56	cellular_component
+Q13021	GO:0005524	0.56	molecular_function
+Q13021	GO:0009535	0.56	cellular_component
+Q13021	GO:0015979	0.55	biological_process
+Q13021	GO:0009539	0.55	cellular_component
+Q13021	GO:0046872	0.55	molecular_function
+Q13021	GO:0003677	0.54	molecular_function
+Q13021	GO:0009523	0.54	cellular_component
+Q13021	GO:0019684	0.54	biological_process
+
+Method 2:
+
+
+Method 3:
+
+
+>Fasta >Q14236   >> Details:
+
+
+Method 1:
+
+Q14236	GO:0005737	0.56	cellular_component
+Q14236	GO:0005524	0.56	molecular_function
+Q14236	GO:0016021	0.55	cellular_component
+Q14236	GO:0006412	0.55	biological_process
+Q14236	GO:0046872	0.54	molecular_function
+Q14236	GO:0003735	0.54	molecular_function
+Q14236	GO:0005840	0.53	cellular_component
+Q14236	GO:0005886	0.53	cellular_component
+Q14236	GO:0019843	0.51	molecular_function
+Q14236	GO:0003677	0.50	molecular_function
+Q14236	GO:0004871	0.47	molecular_function
+
+Method 2:
+
+Q14236	GO:0004871	1.00	molecular_function
+
+Method 3:
+
+Q14236	GO:0004871	1.00	molecular_function
+
+>Fasta >Q9Y6H1   >> Details:
+
+
+Method 1:
+
+Q9Y6H1	GO:0005524	0.62	molecular_function
+Q9Y6H1	GO:0005739	0.59	cellular_component
+Q9Y6H1	GO:0005737	0.57	cellular_component
+Q9Y6H1	GO:0005886	0.57	cellular_component
+Q9Y6H1	GO:0005634	0.57	cellular_component
+Q9Y6H1	GO:0016021	0.56	cellular_component
+Q9Y6H1	GO:0006351	0.56	biological_process
+Q9Y6H1	GO:0003735	0.56	molecular_function
+Q9Y6H1	GO:0006412	0.56	biological_process
+Q9Y6H1	GO:0003677	0.56	molecular_function
+Q9Y6H1	GO:0046872	0.56	molecular_function
+
+Method 2:
+
+Q9Y6H1	GO:0005886	1.00	cellular_component
+Q9Y6H1	GO:0005737	1.00	cellular_component
+Q9Y6H1	GO:0005829	0.99	cellular_component
+Q9Y6H1	GO:0005524	0.98	molecular_function
+Q9Y6H1	GO:0005634	0.97	cellular_component
+Q9Y6H1	GO:0005543	0.96	molecular_function
+Q9Y6H1	GO:0005509	0.96	molecular_function
+Q9Y6H1	GO:0007411	0.95	biological_process
+Q9Y6H1	GO:0005887	0.94	cellular_component
+Q9Y6H1	GO:0007155	0.93	biological_process
+Q9Y6H1	GO:0007264	0.92	biological_process
+
+Method 3:
+
+Q9Y6H1	GO:0004674	1.00	molecular_function
+Q9Y6H1	GO:0035023	1.00	biological_process
+Q9Y6H1	GO:0005543	1.00	molecular_function
+Q9Y6H1	GO:0005089	1.00	molecular_function
+Q9Y6H1	GO:0005524	1.00	molecular_function
+Q9Y6H1	GO:0005085	0.99	molecular_function
+Q9Y6H1	GO:0097190	0.99	biological_process
+Q9Y6H1	GO:0005829	0.99	cellular_component
+Q9Y6H1	GO:0048011	0.99	biological_process
+Q9Y6H1	GO:0043065	0.99	biological_process
+Q9Y6H1	GO:0051056	0.99	biological_process
+
+>Fasta >Q5SRR4   >> Details:
+
+
+Method 1:
+
+Q5SRR4	GO:0005576	0.66	cellular_component
+Q5SRR4	GO:0016021	0.56	cellular_component
+Q5SRR4	GO:0005737	0.56	cellular_component
+Q5SRR4	GO:0005886	0.56	cellular_component
+Q5SRR4	GO:0005524	0.56	molecular_function
+Q5SRR4	GO:0046872	0.55	molecular_function
+Q5SRR4	GO:0005634	0.53	cellular_component
+Q5SRR4	GO:0006351	0.51	biological_process
+Q5SRR4	GO:0003677	0.50	molecular_function
+Q5SRR4	GO:0005887	0.49	cellular_component
+Q5SRR4	GO:0006412	0.48	biological_process
+
+Method 2:
+
+Q5SRR4	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+Q5SRR4	GO:0005576	1.00	cellular_component
+
+>Fasta >Q6UX46   >> Details:
+
+
+Method 1:
+
+Q6UX46	GO:0005576	0.63	cellular_component
+Q6UX46	GO:0005737	0.56	cellular_component
+Q6UX46	GO:0005886	0.56	cellular_component
+Q6UX46	GO:0005524	0.56	molecular_function
+Q6UX46	GO:0016021	0.56	cellular_component
+Q6UX46	GO:0046872	0.56	molecular_function
+Q6UX46	GO:0006412	0.56	biological_process
+Q6UX46	GO:0003735	0.56	molecular_function
+Q6UX46	GO:0003723	0.56	molecular_function
+Q6UX46	GO:0005634	0.56	cellular_component
+Q6UX46	GO:0003677	0.56	molecular_function
+
+Method 2:
+
+Q6UX46	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+Q6UX46	GO:0005576	1.00	cellular_component
+
+>Fasta >Q9BYC9   >> Details:
+
+
+Method 1:
+
+Q9BYC9	GO:0003735	0.70	molecular_function
+Q9BYC9	GO:0006412	0.70	biological_process
+Q9BYC9	GO:0019843	0.70	molecular_function
+Q9BYC9	GO:0005761	0.62	cellular_component
+Q9BYC9	GO:0005840	0.60	cellular_component
+Q9BYC9	GO:0005524	0.57	molecular_function
+Q9BYC9	GO:0005737	0.57	cellular_component
+Q9BYC9	GO:0005886	0.57	cellular_component
+Q9BYC9	GO:0046872	0.57	molecular_function
+Q9BYC9	GO:0016021	0.57	cellular_component
+Q9BYC9	GO:0015979	0.56	biological_process
+
+Method 2:
+
+Q9BYC9	GO:0005829	1.00	cellular_component
+Q9BYC9	GO:0005634	0.99	cellular_component
+Q9BYC9	GO:0005524	0.98	molecular_function
+Q9BYC9	GO:0005737	0.97	cellular_component
+Q9BYC9	GO:0005886	0.96	cellular_component
+Q9BYC9	GO:0005654	0.95	cellular_component
+Q9BYC9	GO:0003735	0.94	molecular_function
+Q9BYC9	GO:0045087	0.93	biological_process
+Q9BYC9	GO:0006412	0.92	biological_process
+Q9BYC9	GO:0005739	0.92	cellular_component
+Q9BYC9	GO:0006351	0.91	biological_process
+
+Method 3:
+
+Q9BYC9	GO:0003735	1.00	molecular_function
+Q9BYC9	GO:0019843	1.00	molecular_function
+Q9BYC9	GO:0006412	1.00	biological_process
+Q9BYC9	GO:0005761	0.99	cellular_component
+Q9BYC9	GO:0005840	0.98	cellular_component
+Q9BYC9	GO:0005739	0.98	cellular_component
+
+>Fasta >Q92478   >> Details:
+
+
+Method 1:
+
+Q92478	GO:0016021	0.89	cellular_component
+Q92478	GO:0030246	0.88	molecular_function
+Q92478	GO:0005886	0.78	cellular_component
+Q92478	GO:0005887	0.62	cellular_component
+Q92478	GO:0005737	0.56	cellular_component
+Q92478	GO:0005524	0.56	molecular_function
+Q92478	GO:0046872	0.55	molecular_function
+Q92478	GO:0006412	0.55	biological_process
+Q92478	GO:0003735	0.55	molecular_function
+Q92478	GO:0005840	0.53	cellular_component
+Q92478	GO:0003677	0.51	molecular_function
+
+Method 2:
+
+Q92478	GO:0030246	1.00	molecular_function
+Q92478	GO:0016021	0.99	cellular_component
+Q92478	GO:0005886	0.98	cellular_component
+Q92478	GO:0005887	0.97	cellular_component
+Q92478	GO:0004888	0.96	molecular_function
+Q92478	GO:0045671	0.95	biological_process
+Q92478	GO:0009897	0.95	cellular_component
+Q92478	GO:0033644	0.94	cellular_component
+Q92478	GO:0006968	0.93	biological_process
+Q92478	GO:0046703	0.92	molecular_function
+Q92478	GO:0005634	0.91	cellular_component
+
+Method 3:
+
+Q92478	GO:0030246	1.00	molecular_function
+Q92478	GO:0016021	0.99	cellular_component
+Q92478	GO:0005886	0.98	cellular_component
+Q92478	GO:0005887	0.97	cellular_component
+Q92478	GO:0004888	0.96	molecular_function
+Q92478	GO:0033644	0.95	cellular_component
+Q92478	GO:0045671	0.94	biological_process
+Q92478	GO:0009897	0.93	cellular_component
+Q92478	GO:0006968	0.92	biological_process
+Q92478	GO:0046703	0.91	molecular_function
+Q92478	GO:0046872	0.90	molecular_function
+
+>Fasta >Q96A72   >> Details:
+
+
+Method 1:
+
+Q96A72	GO:0003723	0.90	molecular_function
+Q96A72	GO:0006397	0.89	biological_process
+Q96A72	GO:0005634	0.87	cellular_component
+Q96A72	GO:0008380	0.87	biological_process
+Q96A72	GO:0051028	0.87	biological_process
+Q96A72	GO:0016607	0.83	cellular_component
+Q96A72	GO:0035145	0.81	cellular_component
+Q96A72	GO:0005737	0.80	cellular_component
+Q96A72	GO:0000184	0.79	biological_process
+Q96A72	GO:0006417	0.79	biological_process
+Q96A72	GO:0071013	0.76	cellular_component
+
+Method 2:
+
+Q96A72	GO:0005634	1.00	cellular_component
+Q96A72	GO:0003723	0.99	molecular_function
+Q96A72	GO:0005829	0.98	cellular_component
+Q96A72	GO:0005737	0.98	cellular_component
+Q96A72	GO:0006397	0.97	biological_process
+Q96A72	GO:0008380	0.96	biological_process
+Q96A72	GO:0051028	0.95	biological_process
+Q96A72	GO:0005654	0.95	cellular_component
+Q96A72	GO:0016607	0.94	cellular_component
+Q96A72	GO:0005524	0.93	molecular_function
+Q96A72	GO:0000184	0.92	biological_process
+
+Method 3:
+
+Q96A72	GO:0003723	1.00	molecular_function
+Q96A72	GO:0006397	0.99	biological_process
+Q96A72	GO:0051028	0.98	biological_process
+Q96A72	GO:0008380	0.98	biological_process
+Q96A72	GO:0005634	0.97	cellular_component
+Q96A72	GO:0016607	0.96	cellular_component
+Q96A72	GO:0035145	0.95	cellular_component
+Q96A72	GO:0000184	0.94	biological_process
+Q96A72	GO:0006417	0.94	biological_process
+Q96A72	GO:0005737	0.93	cellular_component
+Q96A72	GO:0071013	0.92	cellular_component
+
+>Fasta >O75575   >> Details:
+
+
+Method 1:
+
+O75575	GO:0005886	0.74	cellular_component
+O75575	GO:0005634	0.74	cellular_component
+O75575	GO:0000166	0.74	molecular_function
+O75575	GO:0003899	0.73	molecular_function
+O75575	GO:0009360	0.73	cellular_component
+O75575	GO:0006383	0.73	biological_process
+O75575	GO:0045087	0.69	biological_process
+O75575	GO:0051607	0.69	biological_process
+O75575	GO:0007218	0.64	biological_process
+O75575	GO:0001669	0.64	cellular_component
+O75575	GO:0001635	0.64	molecular_function
+
+Method 2:
+
+O75575	GO:0006383	1.00	biological_process
+O75575	GO:0005886	1.00	cellular_component
+O75575	GO:0003899	1.00	molecular_function
+O75575	GO:0009360	1.00	cellular_component
+O75575	GO:0005634	1.00	cellular_component
+O75575	GO:0000166	1.00	molecular_function
+O75575	GO:0051607	0.99	biological_process
+O75575	GO:0045087	0.99	biological_process
+O75575	GO:0007218	0.98	biological_process
+O75575	GO:0001669	0.98	cellular_component
+O75575	GO:0001635	0.98	molecular_function
+
+Method 3:
+
+O75575	GO:0005886	1.00	cellular_component
+O75575	GO:0009360	1.00	cellular_component
+O75575	GO:0006383	1.00	biological_process
+O75575	GO:0003899	1.00	molecular_function
+O75575	GO:0000166	1.00	molecular_function
+O75575	GO:0005634	1.00	cellular_component
+O75575	GO:0051607	0.99	biological_process
+O75575	GO:0045087	0.99	biological_process
+O75575	GO:0001635	0.98	molecular_function
+O75575	GO:0007218	0.98	biological_process
+O75575	GO:0001669	0.98	cellular_component
+
+>Fasta >P61916   >> Details:
+
+
+Method 1:
+
+P61916	GO:0005576	0.78	cellular_component
+P61916	GO:0005783	0.78	cellular_component
+P61916	GO:0008203	0.77	biological_process
+P61916	GO:0005764	0.75	cellular_component
+P61916	GO:0032367	0.75	biological_process
+P61916	GO:0015485	0.75	molecular_function
+P61916	GO:0033344	0.75	biological_process
+P61916	GO:0009615	0.70	biological_process
+P61916	GO:0042632	0.70	biological_process
+P61916	GO:0005737	0.58	cellular_component
+P61916	GO:0005524	0.58	molecular_function
+
+Method 2:
+
+P61916	GO:0005829	1.00	cellular_component
+P61916	GO:0005634	0.99	cellular_component
+P61916	GO:0005737	0.98	cellular_component
+P61916	GO:0005524	0.97	molecular_function
+P61916	GO:0005654	0.96	cellular_component
+P61916	GO:0005886	0.95	cellular_component
+P61916	GO:0006351	0.95	biological_process
+P61916	GO:0008270	0.94	molecular_function
+P61916	GO:0045087	0.93	biological_process
+P61916	GO:0003677	0.92	molecular_function
+P61916	GO:0045944	0.92	biological_process
+
+Method 3:
+
+P61916	GO:0005576	1.00	cellular_component
+P61916	GO:0005783	0.99	cellular_component
+P61916	GO:0008203	0.99	biological_process
+P61916	GO:0032367	0.98	biological_process
+P61916	GO:0033344	0.98	biological_process
+P61916	GO:0005764	0.98	cellular_component
+P61916	GO:0015485	0.98	molecular_function
+P61916	GO:0009615	0.97	biological_process
+P61916	GO:0042632	0.97	biological_process
+P61916	GO:0046836	0.96	biological_process
+P61916	GO:0019747	0.96	biological_process
+
+>Fasta >Q96LM9   >> Details:
+
+
+Method 1:
+
+Q96LM9	GO:0005737	0.56	cellular_component
+Q96LM9	GO:0005524	0.56	molecular_function
+Q96LM9	GO:0016021	0.56	cellular_component
+Q96LM9	GO:0005886	0.55	cellular_component
+Q96LM9	GO:0006412	0.55	biological_process
+Q96LM9	GO:0046872	0.54	molecular_function
+Q96LM9	GO:0003735	0.54	molecular_function
+Q96LM9	GO:0005634	0.54	cellular_component
+Q96LM9	GO:0003677	0.54	molecular_function
+Q96LM9	GO:0005840	0.53	cellular_component
+Q96LM9	GO:0005576	0.53	cellular_component
+
+Method 2:
+
+
+Method 3:
+
+
+>Fasta >P20674   >> Details:
+
+
+Method 1:
+
+P20674	GO:0046872	0.96	molecular_function
+P20674	GO:0005743	0.96	cellular_component
+P20674	GO:0004129	0.96	molecular_function
+P20674	GO:0005737	0.59	cellular_component
+P20674	GO:0005524	0.58	molecular_function
+P20674	GO:0005886	0.58	cellular_component
+P20674	GO:0003677	0.58	molecular_function
+P20674	GO:0016021	0.58	cellular_component
+P20674	GO:0003735	0.58	molecular_function
+P20674	GO:0008270	0.57	molecular_function
+P20674	GO:0006351	0.57	biological_process
+
+Method 2:
+
+P20674	GO:0046872	1.00	molecular_function
+P20674	GO:0005743	0.99	cellular_component
+P20674	GO:0004129	0.98	molecular_function
+P20674	GO:0005829	0.97	cellular_component
+P20674	GO:0005634	0.96	cellular_component
+P20674	GO:0005737	0.95	cellular_component
+P20674	GO:0005524	0.94	molecular_function
+P20674	GO:0005886	0.93	cellular_component
+P20674	GO:0005654	0.93	cellular_component
+P20674	GO:0008270	0.92	molecular_function
+P20674	GO:0005730	0.92	cellular_component
+
+Method 3:
+
+P20674	GO:0005743	1.00	cellular_component
+P20674	GO:0046872	1.00	molecular_function
+P20674	GO:0004129	1.00	molecular_function
+P20674	GO:0044281	0.99	biological_process
+P20674	GO:0009055	0.99	molecular_function
+P20674	GO:0022904	0.99	biological_process
+
+>Fasta >P52434   >> Details:
+
+
+Method 1:
+
+P52434	GO:0003677	0.78	molecular_function
+P52434	GO:0003899	0.76	molecular_function
+P52434	GO:0005665	0.74	cellular_component
+P52434	GO:0006351	0.69	biological_process
+P52434	GO:0005634	0.62	cellular_component
+P52434	GO:0005737	0.62	cellular_component
+P52434	GO:0005730	0.62	cellular_component
+P52434	GO:0008270	0.61	molecular_function
+P52434	GO:0005829	0.58	cellular_component
+P52434	GO:0005524	0.58	molecular_function
+P52434	GO:0006366	0.57	biological_process
+
+Method 2:
+
+P52434	GO:0003677	1.00	molecular_function
+P52434	GO:0003899	0.99	molecular_function
+P52434	GO:0006351	0.99	biological_process
+P52434	GO:0005634	0.98	cellular_component
+P52434	GO:0005829	0.98	cellular_component
+P52434	GO:0008270	0.97	molecular_function
+P52434	GO:0005730	0.97	cellular_component
+P52434	GO:0045087	0.97	biological_process
+P52434	GO:0005737	0.97	cellular_component
+P52434	GO:0045944	0.96	biological_process
+P52434	GO:0005524	0.96	molecular_function
+
+Method 3:
+
+P52434	GO:0003677	1.00	molecular_function
+P52434	GO:0003899	1.00	molecular_function
+P52434	GO:0005665	0.99	cellular_component
+P52434	GO:0006351	0.98	biological_process
+P52434	GO:0006366	0.97	biological_process
+P52434	GO:0005666	0.96	cellular_component
+P52434	GO:0006360	0.96	biological_process
+P52434	GO:0005736	0.96	cellular_component
+P52434	GO:0005730	0.95	cellular_component
+P52434	GO:0005634	0.94	cellular_component
+P52434	GO:0000419	0.93	cellular_component
+
+>Fasta >Q9NPG2   >> Details:
+
+
+Method 1:
+
+Q9NPG2	GO:0005506	0.94	molecular_function
+Q9NPG2	GO:0019825	0.94	molecular_function
+Q9NPG2	GO:0005344	0.94	molecular_function
+Q9NPG2	GO:0020037	0.94	molecular_function
+Q9NPG2	GO:0043204	0.93	cellular_component
+Q9NPG2	GO:0005737	0.80	cellular_component
+Q9NPG2	GO:0005739	0.63	cellular_component
+Q9NPG2	GO:0006915	0.61	biological_process
+Q9NPG2	GO:0016021	0.56	cellular_component
+Q9NPG2	GO:0005524	0.56	molecular_function
+Q9NPG2	GO:0005886	0.56	cellular_component
+
+Method 2:
+
+Q9NPG2	GO:0005344	1.00	molecular_function
+Q9NPG2	GO:0019825	1.00	molecular_function
+Q9NPG2	GO:0020037	1.00	molecular_function
+Q9NPG2	GO:0005506	1.00	molecular_function
+Q9NPG2	GO:0043204	0.99	cellular_component
+Q9NPG2	GO:0005737	0.98	cellular_component
+Q9NPG2	GO:0006915	0.97	biological_process
+Q9NPG2	GO:0005739	0.97	cellular_component
+Q9NPG2	GO:0001666	0.96	biological_process
+Q9NPG2	GO:0005833	0.95	cellular_component
+
+Method 3:
+
+Q9NPG2	GO:0019825	1.00	molecular_function
+Q9NPG2	GO:0020037	1.00	molecular_function
+Q9NPG2	GO:0005506	1.00	molecular_function
+Q9NPG2	GO:0005344	1.00	molecular_function
+Q9NPG2	GO:0043204	0.99	cellular_component
+Q9NPG2	GO:0005737	0.98	cellular_component
+Q9NPG2	GO:0006915	0.97	biological_process
+Q9NPG2	GO:0005739	0.97	cellular_component
+Q9NPG2	GO:0001666	0.96	biological_process
+Q9NPG2	GO:0005833	0.95	cellular_component
+
+>Fasta >Q15828   >> Details:
+
+
+Method 1:
+
+Q15828	GO:0005576	0.59	cellular_component
+Q15828	GO:0005737	0.56	cellular_component
+Q15828	GO:0005886	0.56	cellular_component
+Q15828	GO:0005524	0.56	molecular_function
+Q15828	GO:0016021	0.56	cellular_component
+Q15828	GO:0046872	0.56	molecular_function
+Q15828	GO:0006412	0.56	biological_process
+Q15828	GO:0003735	0.56	molecular_function
+Q15828	GO:0005840	0.55	cellular_component
+Q15828	GO:0000287	0.55	molecular_function
+Q15828	GO:0003677	0.55	molecular_function
+
+Method 2:
+
+Q15828	GO:0001533	1.00	cellular_component
+Q15828	GO:0008544	1.00	biological_process
+Q15828	GO:0004869	1.00	molecular_function
+Q15828	GO:0009653	1.00	biological_process
+Q15828	GO:0005576	1.00	cellular_component
+
+Method 3:
+
+Q15828	GO:0008544	1.00	biological_process
+Q15828	GO:0009653	1.00	biological_process
+Q15828	GO:0005576	1.00	cellular_component
+Q15828	GO:0001533	1.00	cellular_component
+Q15828	GO:0004869	1.00	molecular_function
+
+>Fasta >Q9Y225   >> Details:
+
+
+Method 1:
+
+Q9Y225	GO:0016021	0.71	cellular_component
+Q9Y225	GO:0008270	0.71	molecular_function
+Q9Y225	GO:0000139	0.61	cellular_component
+Q9Y225	GO:0005737	0.57	cellular_component
+Q9Y225	GO:0005524	0.57	molecular_function
+Q9Y225	GO:0005886	0.57	cellular_component
+Q9Y225	GO:0006412	0.55	biological_process
+Q9Y225	GO:0046872	0.55	molecular_function
+Q9Y225	GO:0003735	0.55	molecular_function
+Q9Y225	GO:0005840	0.54	cellular_component
+Q9Y225	GO:0019843	0.53	molecular_function
+
+Method 2:
+
+Q9Y225	GO:0005829	1.00	cellular_component
+Q9Y225	GO:0008270	0.99	molecular_function
+Q9Y225	GO:0005634	0.98	cellular_component
+Q9Y225	GO:0005737	0.97	cellular_component
+Q9Y225	GO:0005524	0.96	molecular_function
+Q9Y225	GO:0005654	0.95	cellular_component
+Q9Y225	GO:0004842	0.94	molecular_function
+Q9Y225	GO:0016021	0.94	cellular_component
+Q9Y225	GO:0045087	0.93	biological_process
+Q9Y225	GO:0005886	0.92	cellular_component
+Q9Y225	GO:0006351	0.92	biological_process
+
+Method 3:
+
+Q9Y225	GO:0008270	1.00	molecular_function
+Q9Y225	GO:0016021	1.00	cellular_component
+Q9Y225	GO:0000139	0.99	cellular_component
+Q9Y225	GO:0005783	0.98	cellular_component
+Q9Y225	GO:0005794	0.98	cellular_component
+
+>Fasta >O15511   >> Details:
+
+
+Method 1:
+
+O15511	GO:0030833	0.87	biological_process
+O15511	GO:0005737	0.84	cellular_component
+O15511	GO:0005856	0.83	cellular_component
+O15511	GO:0005829	0.67	cellular_component
+O15511	GO:0042995	0.67	cellular_component
+O15511	GO:0030027	0.62	cellular_component
+O15511	GO:0005885	0.61	cellular_component
+O15511	GO:0005524	0.59	molecular_function
+O15511	GO:0005886	0.59	cellular_component
+O15511	GO:0046872	0.58	molecular_function
+O15511	GO:0005634	0.58	cellular_component
+
+Method 2:
+
+O15511	GO:0005737	1.00	cellular_component
+O15511	GO:0005829	0.99	cellular_component
+O15511	GO:0005634	0.98	cellular_component
+O15511	GO:0005524	0.97	molecular_function
+O15511	GO:0005886	0.96	cellular_component
+O15511	GO:0045087	0.96	biological_process
+O15511	GO:0005654	0.95	cellular_component
+O15511	GO:0005856	0.94	cellular_component
+O15511	GO:0030833	0.93	biological_process
+O15511	GO:0006351	0.93	biological_process
+O15511	GO:0008270	0.92	molecular_function
+
+Method 3:
+
+O15511	GO:0030833	1.00	biological_process
+O15511	GO:0005737	0.99	cellular_component
+O15511	GO:0005856	0.98	cellular_component
+O15511	GO:0042995	0.97	cellular_component
+O15511	GO:0005885	0.96	cellular_component
+O15511	GO:0005829	0.95	cellular_component
+O15511	GO:0030027	0.94	cellular_component
+O15511	GO:0038096	0.93	biological_process
+O15511	GO:0045087	0.93	biological_process
+O15511	GO:0030036	0.93	biological_process
+O15511	GO:0006928	0.93	biological_process
+
+>Fasta >P22392   >> Details:
+
+
+Method 1:
+
+P22392	GO:0005737	1.00	cellular_component
+P22392	GO:0005524	1.00	molecular_function
+P22392	GO:0006241	1.00	biological_process
+P22392	GO:0046872	1.00	molecular_function
+P22392	GO:0006183	1.00	biological_process
+P22392	GO:0006228	1.00	biological_process
+P22392	GO:0004550	1.00	molecular_function
+P22392	GO:0005886	0.88	cellular_component
+P22392	GO:0005634	0.85	cellular_component
+P22392	GO:0005739	0.82	cellular_component
+P22392	GO:0001726	0.81	cellular_component
+
+Method 2:
+
+P22392	GO:0006228	1.00	biological_process
+P22392	GO:0004550	1.00	molecular_function
+P22392	GO:0006241	1.00	biological_process
+P22392	GO:0005524	1.00	molecular_function
+P22392	GO:0046872	1.00	molecular_function
+P22392	GO:0006183	1.00	biological_process
+P22392	GO:0005737	1.00	cellular_component
+P22392	GO:0005886	0.99	cellular_component
+P22392	GO:0005634	0.98	cellular_component
+P22392	GO:0005829	0.97	cellular_component
+P22392	GO:0005739	0.96	cellular_component
+
+Method 3:
+
+P22392	GO:0005737	1.00	cellular_component
+P22392	GO:0004550	1.00	molecular_function
+P22392	GO:0046872	1.00	molecular_function
+P22392	GO:0005524	1.00	molecular_function
+P22392	GO:0006228	1.00	biological_process
+P22392	GO:0006183	1.00	biological_process
+P22392	GO:0006241	1.00	biological_process
+P22392	GO:0005886	0.99	cellular_component
+P22392	GO:0005634	0.98	cellular_component
+P22392	GO:0005739	0.97	cellular_component
+P22392	GO:0030027	0.96	cellular_component
+
+>Fasta >C9J3V5   >> Details:
+
+
+Method 1:
+
+C9J3V5	GO:0005737	0.56	cellular_component
+C9J3V5	GO:0005524	0.56	molecular_function
+C9J3V5	GO:0016021	0.56	cellular_component
+C9J3V5	GO:0005886	0.56	cellular_component
+C9J3V5	GO:0046872	0.56	molecular_function
+C9J3V5	GO:0006412	0.56	biological_process
+C9J3V5	GO:0003735	0.55	molecular_function
+C9J3V5	GO:0005634	0.55	cellular_component
+C9J3V5	GO:0003677	0.54	molecular_function
+C9J3V5	GO:0006351	0.54	biological_process
+C9J3V5	GO:0019843	0.53	molecular_function
+
+Method 2:
+
+C9J3V5	GO:0001669	1.00	cellular_component
+
+Method 3:
+
+C9J3V5	GO:0001669	1.00	cellular_component
